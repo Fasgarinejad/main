@@ -11,15 +11,14 @@
             padding: 0;
             display: flex;
             height: 100vh;
-            background-color: #ffffff; /* Set the whole background to white */
+            background-color: #ffffff; /* Set the entire background to white */
         }
-        .left-column, .right-column {
-            flex: 1;
+        .column {
+            flex: 1; /* Each column takes up half the screen */
             padding: 20px;
             box-sizing: border-box;
         }
         .left-column {
-            border-right: 1px solid #ddd;
             text-align: center;
         }
         .left-column img {
@@ -28,7 +27,7 @@
             height: auto;
         }
         .right-column {
-            padding: 20px;
+            padding-left: 40px; /* Add a little padding to the right column for spacing */
         }
         .right-column p {
             margin: 0;
@@ -38,8 +37,6 @@
         .right-column h2 {
             margin-top: 20px;
             font-size: 18px;
-            border-bottom: 2px solid #ddd;
-            padding-bottom: 5px;
         }
         .links a {
             display: block;
@@ -53,7 +50,7 @@
     </style>
 </head>
 <body>
-    <div class="left-column">
+    <div class="column left-column">
         <h1>Fatemeh Asgarinejad</h1>
         <img src="your-image-url.jpg" alt="Fatemeh Asgarinejad">
         <div class="links">
@@ -64,7 +61,7 @@
             <a href="https://scholar.google.com/citations?user=your-profile" target="_blank">Google Scholar</a>
         </div>
     </div>
-    <div class="right-column">
+    <div class="column right-column">
         <p>Hi! 👋 I’m Fatemeh (“Faa-teh-meh”), a fourth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I’m open to academic and specifically teaching job market opportunities.</p>
         
         <h2>Teaching</h2>
