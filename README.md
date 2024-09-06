@@ -10,22 +10,13 @@
             margin: 0;
             padding: 0;
             display: flex;
-            justify-content: center;
-            align-items: center;
             height: 100vh;
-            background-color: #ffffff; /* Set the entire page background to white */
-        }
-        .container {
-            display: flex;
-            max-width: 1200px;
-            width: 100%;
-            height: 100vh; /* Ensure the container takes up the full height of the page */
-            background: white; /* Set the container background to white */
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #ffffff; /* Set the whole background to white */
         }
         .left-column, .right-column {
             flex: 1;
             padding: 20px;
+            box-sizing: border-box;
         }
         .left-column {
             border-right: 1px solid #ddd;
@@ -37,8 +28,7 @@
             height: auto;
         }
         .right-column {
-            display: flex;
-            flex-direction: column;
+            padding: 20px;
         }
         .right-column p {
             margin: 0;
@@ -63,28 +53,26 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="left-column">
-            <h1>Fatemeh Asgarinejad</h1>
-            <img src="your-image-url.jpg" alt="Fatemeh Asgarinejad">
-            <div class="links">
-                <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
-                <a href="https://stackoverflow.com/users/your-profile" target="_blank">Stack Overflow</a>
-                <a href="mailto:your-email@example.com">Email</a>
-                <a href="https://www.youtube.com/channel/your-channel" target="_blank">YouTube</a>
-                <a href="https://scholar.google.com/citations?user=your-profile" target="_blank">Google Scholar</a>
-            </div>
+    <div class="left-column">
+        <h1>Fatemeh Asgarinejad</h1>
+        <img src="your-image-url.jpg" alt="Fatemeh Asgarinejad">
+        <div class="links">
+            <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
+            <a href="https://stackoverflow.com/users/your-profile" target="_blank">Stack Overflow</a>
+            <a href="mailto:your-email@example.com">Email</a>
+            <a href="https://www.youtube.com/channel/your-channel" target="_blank">YouTube</a>
+            <a href="https://scholar.google.com/citations?user=your-profile" target="_blank">Google Scholar</a>
         </div>
-        <div class="right-column">
-            <p>Hi! 👋 I’m Fatemeh (“Faa-teh-meh”), a fourth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I’m open to academic and specifically teaching job market opportunities.</p>
-            
-            <h2>Teaching</h2>
-            <h2>Publications</h2>
-            <h2>Awards</h2>
-            <h2>Talks</h2>
-            <h2>CV</h2>
-            <h2>Students</h2>
-        </div>
+    </div>
+    <div class="right-column">
+        <p>Hi! 👋 I’m Fatemeh (“Faa-teh-meh”), a fourth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I’m open to academic and specifically teaching job market opportunities.</p>
+        
+        <h2>Teaching</h2>
+        <h2>Publications</h2>
+        <h2>Awards</h2>
+        <h2>Talks</h2>
+        <h2>CV</h2>
+        <h2>Students</h2>
     </div>
 </body>
 </html>
