@@ -36,6 +36,13 @@
             font-size: 18px;
             text-align: justify;
         }
+        .profile-image {
+            display: block;
+            margin: 0 auto 20px;
+            width: 150px;
+            border-radius: 50%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
         .icons {
             text-align: center;
             margin: 20px 0;
@@ -43,6 +50,10 @@
         .icons img {
             width: 40px;
             margin: 0 10px;
+            transition: transform 0.2s ease;
+        }
+        .icons img:hover {
+            transform: scale(1.1);
         }
         .tabs {
             display: flex;
@@ -84,8 +95,12 @@
         <h1>Fatemeh Asgarinejad</h1>
         <h2>Final year Ph.D. Candidate at University of California, San Diego</h2>
 
-        <p>Hi! 👋 I’m Fatemeh (“Faa-teh-meh”), a fourth year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I’m open to academic and specifically teaching job market opportunities.</p>
+        <!-- Profile Photo -->
+        <img src="assets/images/my-photo.jpg" alt="Fatemeh Asgarinejad" class="profile-image">
 
+        <p>Hi! 👋 I’m Fatemeh (“Faa-teh-meh”), a fourth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I’m open to academic and specifically teaching job market opportunities.</p>
+
+        <!-- Website Links with Logos -->
         <div class="icons">
             <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn">
