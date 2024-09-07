@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fatemeh Asgarinejad</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -41,14 +42,20 @@
             margin-top: 20px;
             font-size: 18px;
         }
+        .links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
         .links a {
-            display: block;
             color: #0073e6;
             text-decoration: none;
-            margin-bottom: 10px;
+            margin: 0 10px;
+            font-size: 24px; /* Size of the icons */
         }
         .links a:hover {
-            text-decoration: underline;
+            color: #0056b3; /* Darker shade on hover */
         }
     </style>
 </head>
@@ -58,11 +65,11 @@
             <h1>Fatemeh Asgarinejad</h1>
             <img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
             <div class="links">
-                <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
-                <a href="https://stackoverflow.com/users/your-profile" target="_blank">Stack Overflow</a>
-                <a href="mailto:your-email@example.com">Email</a>
-                <a href="https://www.youtube.com/channel/your-channel" target="_blank">YouTube</a>
-                <a href="https://scholar.google.com/citations?user=your-profile" target="_blank">Google Scholar</a>
+                <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="https://stackoverflow.com/users/your-profile" target="_blank" title="Stack Overflow"><i class="fab fa-stack-overflow"></i></a>
+                <a href="mailto:your-email@example.com" title="Email"><i class="fas fa-envelope"></i></a>
+                <a href="https://www.youtube.com/channel/your-channel" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
+                <a href="https://scholar.google.com/citations?user=your-profile" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
             </div>
         </div>
         <div class="column right-column">
