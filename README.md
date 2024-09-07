@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,9 +49,10 @@
     </style>
 </head>
 <body>
+<div class="container">
     <div class="column left-column">
         <h1>Fatemeh Asgarinejad</h1>
-        <img src="your-image-url.jpg" alt="Fatemeh Asgarinejad">
+        <img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
         <div class="links">
             <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
             <a href="https://stackoverflow.com/users/your-profile" target="_blank">Stack Overflow</a>
@@ -62,7 +62,9 @@
         </div>
     </div>
     <div class="column right-column">
-        <p>Hi! 👋 I’m Fatemeh (“Faa-teh-meh”), a fourth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I’m open to academic and specifically teaching job market opportunities.</p>
+        <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fourth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I'm open to academic and specifically teaching job market opportunities.</p>
+    </div>
+</div>
         
         <h2>Teaching</h2>
         <h2>Publications</h2>
