@@ -62,8 +62,8 @@
 <body>
     <div class="container">
         <div class="column left-column">
-            <h1>Fatemeh Asgarinejad</h1>
             <img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
+            <h1>Fatemeh Asgarinejad</h1>
             <div class="links">
                 <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                 <a href="https://stackoverflow.com/users/your-profile" target="_blank" title="Stack Overflow"><i class="fab fa-stack-overflow"></i></a>
