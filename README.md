@@ -83,9 +83,9 @@
             </div>
         </div>
         <div class="column right-column">
-            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing<i class="fas fa-envelope"></i></a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli<i class="fas fa-envelope"></i></a>.       <br><br>         
+            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing<i class="fas fa-envelope"></i></a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli<i class="fas fa-envelope"></i></a>.       <br>       
                 
-               <strong>I am actively seeking academic positions with a strong focus on teaching in the job market.</strong></p>
+               I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
             
             <h2>Teaching</h2>
             • Instructor (University of California, San Diego) CSE 20 (Discrete Mathematics)<br>
