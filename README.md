@@ -75,11 +75,11 @@
             <img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
             <h1>Fatemeh Asgarinejad</h1>
             <div class="links">
-                <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatemeh-asgarinejad/)" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                 <a href="https://stackoverflow.com/users/your-profile" target="_blank" title="Stack Overflow"><i class="fab fa-stack-overflow"></i></a>
-                <a href="mailto:your-email@example.com" title="Email"><i class="fas fa-envelope"></i></a>
-                <a href="https://www.youtube.com/channel/your-channel" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
-                <a href="https://scholar.google.com/citations?user=your-profile" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
+                <a href="mailto:fasgarinejad@ucsd.edu" title="Email"><i class="fas fa-envelope"></i></a>
+                <a href="[https://www.youtube.com/channel/your-channel](https://www.youtube.com/@fatemehasgarinejad)" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
+                <a href="[https://scholar.google.com/citations?user=your-profile](https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en)" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
             </div>
         </div>
         <div class="column right-column">
