@@ -132,9 +132,9 @@
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli</a>. <br>       
                 
-    <div class="violet-box">
-        I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
-    </div>
+            <div class="violet-box">
+                I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
+            </div>
             <h3 class="section-heading">Teaching</h3>
             
             <!-- University of California, San Diego -->
@@ -151,12 +151,14 @@
             </ul>
     
             <!-- Teaching Assistant, Halıcıoğlu Data Science Institute and Teaching Assistant (inline) -->
+            <h4 class="university-heading">Halıcıoğlu Data Science Institute</h4>
             <ul>
-                <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong></li>
-                <ul>
-                    <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
-                    <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
-                </ul>
+                <li><strong>Teaching Assistant:</strong>
+                    <ul>
+                        <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
+                        <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
+                    </ul>
+                </li>
             </ul>
 
             <!-- San Diego State University -->
@@ -171,33 +173,30 @@
                 <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
             </ul>
 
-<!-- Publications -->
-<h3 class="section-heading">Publications</h3>
-<ul>
-    <li><strong>F. Asgarinejad</strong>, F. Ponzina, O. Gungor, T. Rosing, B. Aksanli, “HDXpose: Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, ICCAD, 2024.</li>
-    <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli “VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification”, ISLPED, 2024.</li>
-    <li>M. Gaddi, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</li>
-    <li><strong>F. Asgarinejad</strong>, J. Morris, T. Rosing, B. Aksanli “PIONEER: Towards Highly Efficient and Accurate Hyperdimensional Computing using Learned Projection”, ASP-DAC, 2024.</li>
-    <li><strong>F. Asgarinejad</strong>, A. Thomas, R. Hildebrant, Z Zhang, S. Ren. Rosing, B. Aksanli “Optimized Early Prediction of Business Processes with Hyperdimensional Computing”, MDPI Information, 2024.</li>
-    <li><strong>F. Asgarinejad</strong>, X. Yu, D. Jiang, J. Morris, T. Rosing, B. Aksanli, “Enhanced Noise-Resilient Pressure Mat System Based on Hyperdimensional Computing”, MDPI Sensors, 2024.</li>
-    <li>R. Chandrasecaran, <strong>F. Asgarinejad</strong>, J. Morris, T. Rosing “Multi-label classification with Hyperdimensional Representations”, IEEE ACCESS, 2023.</li>
-    <li>X. Yu, M. Zhou, <strong>F. Asgarinejad</strong>, O. Gungor, B. Aksanli, T. Rosing “Lightning Talk: Private and Secure Edge AI with Hyperdimensional Computing”, DAC, 2023.</li>
-    <li>Z. Zhang, R. Hildebrant, <strong>F. Asgarinejad</strong>, N. Venkatasubramanian, S. Ren, “Improving Process Discovery Results by Filtering Out Outliers from Event Logs with Hidden Markov Models”, CBI, 2021.</li>
-    <li>R. Garcia, <strong>F. Asgarinejad</strong>, et al., “TruLook: A Framework for Configurable GPU Approximation”, DATE, 2021.</li>
-    <li><strong>F. Asgarinejad</strong>, A. Thomas, T. Rosing, “Detection of Epileptic Seizures from Surface EEG using Hyperdimensional Computing”, EMBC, 2020.</li>
-    <li>B. Khaleghi, S. Salamat, A. Thomas, <strong>F. Asgarinejad</strong>, Y. Kim, T. Rosing “SHEARer Highly-Efficient Hyperdimensional Computing by Software-Hardware Enabled Multifold Approximation”, ISLPED, 2020.</li>
-    <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, T. Rosing, B. Aksanli, “Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques”, under preparation.</li>
-</ul>
-
-
-            
+            <!-- Publications -->
+            <h3 class="section-heading">Publications</h3>
+            <ul>
+                <li><strong>F. Asgarinejad</strong>, F. Ponzina, O. Gungor, T. Rosing, B. Aksanli, “HDXpose: Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, ICCAD, 2024.</li>
+                <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli “VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification”, ISLPED, 2024.</li>
+                <li>M. Gaddi, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</li>
+                <li><strong>F. Asgarinejad</strong>, J. Morris, T. Rosing, B. Aksanli “PIONEER: Towards Highly Efficient and Accurate Hyperdimensional Computing using Learned Projection”, ASP-DAC, 2024.</li>
+                <li><strong>F. Asgarinejad</strong>, A. Thomas, R. Hildebrant, Z Zhang, S. Ren. Rosing, B. Aksanli “Optimized Early Prediction of Business Processes with Hyperdimensional Computing”, MDPI Information, 2024.</li>
+                <li><strong>F. Asgarinejad</strong>, X. Yu, D. Jiang, J. Morris, T. Rosing, B. Aksanli, “Enhanced Noise-Resilient Pressure Mat System Based on Hyperdimensional Computing”, MDPI Sensors, 2024.</li>
+                <li>R. Chandrasecaran, <strong>F. Asgarinejad</strong>, J. Morris, T. Rosing “Multi-label classification with Hyperdimensional Representations”, IEEE ACCESS, 2023.</li>
+                <li>X. Yu, M. Zhou, <strong>F. Asgarinejad</strong>, O. Gungor, B. Aksanli, T. Rosing “Lightning Talk: Private and Secure Edge AI with Hyperdimensional Computing”, DAC, 2023.</li>
+                <li>Z. Zhang, R. Hildebrant, <strong>F. Asgarinejad</strong>, N. Venkatasubramanian, S. Ren, “Improving Process Discovery Results by Filtering Out Outliers from Event Logs with Hidden Markov Models”, CBI, 2021.</li>
+                <li>R. Garcia, <strong>F. Asgarinejad</strong>, et al., “TruLook: A Framework for Configurable GPU Approximation”, DATE, 2021.</li>
+                <li><strong>F. Asgarinejad</strong>, A. Thomas, T. Rosing, “Detection of Epileptic Seizures from Surface EEG using Hyperdimensional Computing”, EMBC, 2020.</li>
+                <li>B. Khaleghi, S. Salamat, A. Thomas, <strong>F. Asgarinejad</strong>, Y. Kim, T. Rosing “SHEARer Highly-Efficient Hyperdimensional Computing by Software-Hardware Enabled Multifold Approximation”, ISLPED, 2020.</li>
+                <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, T. Rosing, B. Aksanli, “Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques”, under preparation.</li>
+            </ul>
             
             <!-- Students -->
             <h3 class="section-heading">Students</h3>
             <ul>
                 <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
                 <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
-                <li> Lilianne Montehermoso, High School student, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
+                <li>Lilianne Montehermoso, High School student, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
             </ul>
             
             <!-- Awards -->
@@ -209,10 +208,10 @@
                 <li>UCSD travel grant, 2024</li>
                 <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
                 <li>M Ranked 20th (top 0.1%) in Iran’s national university entrance exam for M.Sc. in Computer Science</li>
-                <li> Ranked top 0.4% in Iran’s national university entrance exam for M.Sc. in Computer Engineering</li>
+                <li>Ranked top 0.4% in Iran’s national university entrance exam for M.Sc. in Computer Engineering</li>
             </ul>
                 
-            <!-- Invitd Talks -->
+            <!-- Invited Talks -->
             <h3 class="section-heading">Talks</h3>
             <ul>
                 <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
