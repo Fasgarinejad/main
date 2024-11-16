@@ -230,6 +230,12 @@
         <li>HKN (Eta Kappa Nu) Honor Society of UC San Diego Outreach Program for middle-school and High-school students, May 2022-present</li>
     </ul>
 
+    <!-- Service -->
+    <h3 class="section-heading">Professional Service</h3>
+    <ul>
+        <li>Reviewer for ACM Computing Surveys</li>
+    </ul>
+    
         </div>
     </div>
 </body>
