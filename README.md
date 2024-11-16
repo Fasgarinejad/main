@@ -130,13 +130,12 @@
             </div>
         </div>
         <div class="column right-column">
-            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of Prof. Tajana Rosing and Prof. Baris Aksanli. <br>       
-                
+            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of Prof. Tajana Rosing and Prof. Baris Aksanli.</p>
             <div class="violet-box">
                 I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
             </div>
             <h3 class="section-heading">Teaching</h3>
-            
+
             <!-- University of California, San Diego -->
             <h4 class="university-heading">University of California, San Diego</h4>
             <ul>
@@ -149,8 +148,8 @@
                     </ul>
                 </li>
             </ul>
-    
-            <!-- Teaching Assistant, Halıcıoğlu Data Science Institute and Teaching Assistant (inline) -->
+
+            <!-- Teaching Assistant, Halıcıoğlu Data Science Institute -->
             <h4 class="university-heading">Halıcıoğlu Data Science Institute</h4>
             <ul>
                 <li><strong>Teaching Assistant:</strong>
@@ -190,7 +189,7 @@
                 <li>B. Khaleghi, S. Salamat, A. Thomas, <strong>F. Asgarinejad</strong>, Y. Kim, T. Rosing “SHEARer Highly-Efficient Hyperdimensional Computing by Software-Hardware Enabled Multifold Approximation”, ISLPED, 2020.</li>
                 <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, T. Rosing, B. Aksanli, “Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques”, under preparation.</li>
             </ul>
-            
+
             <!-- Students -->
             <h3 class="section-heading">Students</h3>
             <ul>
@@ -198,7 +197,7 @@
                 <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
                 <li>Lilianne Montehermoso, High School student, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
             </ul>
-            
+
             <!-- Awards -->
             <h3 class="section-heading">Awards</h3>
             <ul>
@@ -210,7 +209,7 @@
                 <li>M Ranked 20th (top 0.1%) in Iran’s national university entrance exam for M.Sc. in Computer Science</li>
                 <li>Ranked top 0.4% in Iran’s national university entrance exam for M.Sc. in Computer Engineering</li>
             </ul>
-                
+
             <!-- Invited Talks -->
             <h3 class="section-heading">Talks</h3>
             <ul>
