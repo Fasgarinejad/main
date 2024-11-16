@@ -135,9 +135,9 @@
                     </ul>
                 </li>
             </ul>
-            
+    
             <!-- Teaching Assistant, Halıcıoğlu Data Science Institute and Teaching Assistant (inline) -->
-            <ul class="inline-list">
+            <ul>
                 <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong></li>
                 <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                 <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
