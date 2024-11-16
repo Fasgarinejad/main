@@ -97,9 +97,7 @@
                     <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                 </ul>
             </li>
-        </ul>
-        
-        <ul>
+            
             <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong></li>
             <ul>
                 <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
