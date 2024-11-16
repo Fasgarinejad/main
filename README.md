@@ -107,8 +107,6 @@
                 <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                 <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
                 </ul>
-            </ul>
-
             <h4 class="university-heading">San Diego State University</h4>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
