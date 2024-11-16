@@ -101,6 +101,7 @@
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
+                <br>
                 <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
                 <ul>
                 <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
@@ -118,14 +119,23 @@
 
             <h2>Publications</h2>
             
-
-            <h2>Awards</h2>
-
-            <h2>Talks</h2>
-
-            <h2>CV</h2>
-
             <h2>Students</h2>
+            
+            <h2>Awards</h2>
+                <ul>
+                <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
+                <li>DAC Young Fellow at the 61st Design Automation Conference in San Francisco, 2024</li>
+                <li>SRC Research Scholar and awarded funding for conference participation, 2024</li>
+                <li>UCSD travel grant, 2024</li>
+                <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
+                </ul>
+                
+            <h2>Talks</h2> 
+                <ul>
+                <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
+                <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
+                <li>Colegio San Agustin-Bacolod University’s 60th Founding Anneversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
+                </ul>
         </div>
     </div>
 </body>
