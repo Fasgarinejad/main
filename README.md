@@ -128,6 +128,8 @@
                 <a href="https://www.youtube.com/@fatemehasgarinejad" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
                 <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
             </div>
+            <img src="IMG_SecondImage.JPG" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
+
         </div>
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of Prof. Tajana Rosing and Prof. Baris Aksanli.</p>
