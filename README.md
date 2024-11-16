@@ -5,7 +5,6 @@
     <title>Fatemeh Asgarinejad</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
-        
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -60,9 +59,9 @@
         }
 
         .anchor {
-        display: none !important;
+            display: none !important;
         }
-        
+
         /* Or, if the above doesn't work, try this: */
         h2 .anchor {
             display: none !important;
@@ -83,49 +82,50 @@
             </div>
         </div>
         <div class="column right-column">
-            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing<i class="fas fa-envelope"></i></a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli<i class="fas fa-envelope"></i></a>.       <br>       
+            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing<i class="fas fa-envelope"></i></a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli<i class="fas fa-envelope"></i></a>. <br>       
                 
                I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
-            
-<h3>Teaching Experience</h2>
 
-<h2>University of California, San Diego (UC San Diego)</h3>
-<ul>
-    <li><strong>Instructor, CSE 20</strong> (Discrete Mathematics)</li>
-    <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
-        <ul>
-            <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
-            <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023)</li>
-            <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
-        </ul>
-    </li>
-</ul>
+            <h2>Teaching Experience</h2>
 
-<h2>Halıcıoğlu Data Science Institute</h3>
-<ul>
-    <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
-    <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
-</ul>
+            <h3>University of California, San Diego (UC San Diego)</h3>
+            <ul>
+                <li><strong>Instructor, CSE 20</strong> (Discrete Mathematics)</li>
+                <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
+                    <ul>
+                        <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
+                        <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023)</li>
+                        <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
+                    </ul>
+                </li>
+            </ul>
 
-<h2>San Diego State University (SDSU)</h3>
-<ul>
-    <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
-</ul>
+            <h3>Halıcıoğlu Data Science Institute</h3>
+            <ul>
+                <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
+                <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
+            </ul>
 
-<h2>UC San Diego Extension</h3>
-<ul>
-    <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
-</ul>
+            <h3>San Diego State University (SDSU)</h3>
+            <ul>
+                <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
+            </ul>
 
-<h2>Publications</h2>
+            <h3>UC San Diego Extension</h3>
+            <ul>
+                <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
+            </ul>
 
-<h2>Awards</h2>
+            <h2>Publications</h2>
 
-<h2>Talks</h2>
+            <h2>Awards</h2>
 
-<h2>CV</h2>
+            <h2>Talks</h2>
 
-<h2>Students</h2>
-</div>
+            <h2>CV</h2>
+
+            <h2>Students</h2>
+        </div>
+    </div>
 </body>
 </html>
