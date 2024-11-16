@@ -87,9 +87,9 @@
                 
                I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
             
-<h2>Teaching Experience</h2>
+<h3>Teaching Experience</h2>
 
-<h3>University of California, San Diego (UC San Diego)</h3>
+<h2>University of California, San Diego (UC San Diego)</h3>
 <ul>
     <li><strong>Instructor, CSE 20</strong> (Discrete Mathematics)</li>
     <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
@@ -101,18 +101,18 @@
     </li>
 </ul>
 
-<h3>Halıcıoğlu Data Science Institute</h3>
+<h2>Halıcıoğlu Data Science Institute</h3>
 <ul>
     <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
     <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
 </ul>
 
-<h3>San Diego State University (SDSU)</h3>
+<h2>San Diego State University (SDSU)</h3>
 <ul>
     <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
 </ul>
 
-<h3>UC San Diego Extension</h3>
+<h2>UC San Diego Extension</h3>
 <ul>
     <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
 </ul>
