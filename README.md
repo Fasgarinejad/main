@@ -129,7 +129,9 @@
             <h2>Publications</h2>
             
             <h2>Students</h2>
-            
+            <ul>
+                <li></li>
+            <ul>
             <h2>Awards</h2>
             <ul>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
