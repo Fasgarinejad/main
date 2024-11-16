@@ -90,7 +90,7 @@
 
             <h3>University of California, San Diego (UC San Diego)</h3>
             <ul>
-                <li><strong>Instructor, CSE 20 </strong> Discrete Mathematics (Summer 2024)</li>
+                <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
@@ -98,14 +98,14 @@
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
-
-
-                <h2>Halıcıoğlu Data Science Institute</h3>
-                <ul>
+            </ul>
+            
+            <h3>Halıcıoğlu Data Science Institute</h3>
+            <ul>
                 <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                 <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
             </ul>
-            </ul>
+
 
 
             <h2>San Diego State University (SDSU)</h3>
