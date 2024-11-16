@@ -5,6 +5,17 @@
     <title>Fatemeh Asgarinejad</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
+        /* Style for the violet box */
+        .violet-box {
+            background-color: violet; /* Violet background color */
+            color: white; /* White text color */
+            padding: 20px; /* Padding inside the box */
+            border-radius: 10px; /* Rounded corners */
+            font-size: 16px; /* Font size */
+            margin: 20px 0; /* Margin to create space above and below the box */
+            text-align: center; /* Center-align the text */
+            font-family: Arial, sans-serif; /* Set font */
+        }
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -119,8 +130,9 @@
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli</a>. <br>       
                 
-               I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
-
+    <div class="violet-box">
+        I am actively seeking academic positions with a strong focus on teaching in the job market.
+    </div>
             <h3 class="section-heading">Teaching</h3>
             
             <!-- University of California, San Diego -->
