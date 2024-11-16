@@ -72,7 +72,6 @@
     <div class="container">
         <div class="column left-column">
             <img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
-            <h1>Fatemeh Asgarinejad</h1>
             <div class="links">
                 <a href="https://www.linkedin.com/in/fatemeh-asgarinejad/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                 <a href="https://github.com/Fasgarinejad" target="_blank" title="Stack Overflow"><i class="fab fa-stack-overflow"></i></a>
