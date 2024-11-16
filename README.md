@@ -90,7 +90,7 @@
 
             <h3>University of California, San Diego (UC San Diego)</h3>
             <ul>
-                <li><strong>Instructor, CSE 20</strong> (Discrete Mathematics)</li>
+                <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
