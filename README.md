@@ -128,7 +128,7 @@
                 <a href="https://www.youtube.com/@fatemehasgarinejad" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
                 <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
             </div>
-            <img src="IMG_SecondImage.JPG" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
+            <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
 
         </div>
         <div class="column right-column">
