@@ -7,14 +7,16 @@
     <style>
         /* Style for the violet box */
         .violet-box {
-            background-color: #d0f0c0; /* Very light mint green background color */
+            background-color: #f0fff0; /* Very light mint green background color */
             color: black; /* Black text color for good contrast */
-            padding: 20px; /* Padding inside the box */
-            border-radius: 10px; /* Rounded corners */
+            padding: 8px 12px; /* Padding just around the text */
+            border-radius: 5px; /* Rounded corners */
             font-size: 16px; /* Font size */
-            margin: 20px 0; /* Margin to create space above and below the box */
-            text-align: center; /* Center-align the text */
+            margin: 10px 0; /* Small margin to separate from other elements */
+            text-align: left; /* Left-align the text */
             font-family: Arial, sans-serif; /* Set font */
+            max-width: 90%; /* Limit the width to 90% of its container */
+            word-wrap: break-word; /* Ensure long words don't overflow */
         }
         body {
             font-family: Arial, sans-serif;
