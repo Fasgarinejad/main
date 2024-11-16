@@ -40,8 +40,13 @@
         }
         .right-column h2 {
             margin-top: 20px;
-            font-size: 18px;
+            font-size: 24px;
         }
+        /* Smaller font size for university headings */
+        .university-heading {
+            font-size: 18px; /* You can adjust the font size as needed */
+        }
+
         .links {
             display: flex;
             justify-content: center;
@@ -61,7 +66,7 @@
         .anchor {
             display: none !important;
         }
-
+        
         /* Or, if the above doesn't work, try this: */
         h2 .anchor {
             display: none !important;
@@ -87,30 +92,30 @@
 
             <h2>Teaching Experience</h2>
 
-        <h2>University of California, San Diego (UC San Diego)</h2>
-        <ul>
-            <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
-            <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
-                <ul>
-                    <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
-                    <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023)</li>
-                    <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
-                </ul>
-            </li>
-            
-            <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong></li>
+            <h2 class="university-heading">University of California, San Diego (UC San Diego)</h2>
+            <ul>
+                <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
+                <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
+                    <ul>
+                        <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
+                        <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023)</li>
+                        <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h2 class="university-heading">Halıcıoğlu Data Science Institute</h2>
             <ul>
                 <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                 <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
             </ul>
-        </ul>
 
-            <h2>San Diego State University (SDSU)</h2>
+            <h2 class="university-heading">San Diego State University (SDSU)</h2>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
             </ul>
 
-            <h2>UC San Diego Extension</h2>
+            <h2 class="university-heading">UC San Diego Extension</h2>
             <ul>
                 <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
             </ul>
