@@ -164,7 +164,6 @@
                 <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
                 <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
                 <li> Lilianne Montehermoso, High School student, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
-                <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
             </ul>
             
             <!-- Awards -->
@@ -175,6 +174,8 @@
                 <li>SRC Research Scholar and awarded funding for conference participation, 2024</li>
                 <li>UCSD travel grant, 2024</li>
                 <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
+                <li>M Ranked 20th (top 0.1%) in Iran’s national university entrance exam for M.Sc. in Computer Science</li>
+                <li> Ranked top 0.4% in Iran’s national university entrance exam for M.Sc. in Computer Engineering</li>
             </ul>
                 
             <!-- Invitd Talks -->
