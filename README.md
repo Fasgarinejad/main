@@ -38,13 +38,14 @@
             font-size: 16px;
             line-height: 1.5;
         }
-        .right-column h2 {
+        .right-column h2, .right-column h3, .right-column h4 {
             margin-top: 20px;
             font-size: 24px;
         }
         /* Smaller font size for university headings */
         .university-heading {
-            font-size: 18px; /* You can adjust the font size as needed */
+            font-size: 18px; /* Adjust size here */
+            font-weight: bold;
         }
 
         .links {
@@ -57,19 +58,24 @@
             color: #0073e6;
             text-decoration: none;
             margin: 0 10px;
-            font-size: 24px; /* Size of the icons */
+            font-size: 24px;
         }
         .links a:hover {
-            color: #0056b3; /* Darker shade on hover */
+            color: #0056b3;
         }
 
         .anchor {
             display: none !important;
         }
-        
-        /* Or, if the above doesn't work, try this: */
-        h2 .anchor {
-            display: none !important;
+
+        /* Ensure consistent formatting of headings and lists */
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
         }
     </style>
 </head>
@@ -86,12 +92,13 @@
             </div>
         </div>
         <div class="column right-column">
-            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli</a>. <br>       
-                
-               I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
+            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli</a>.</p>
+
+            <p>I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
 
             <h3>Teaching</h3>
-            <h4 class="university-heading">University of California, San Diego</h4>
+
+            <h4 class="university-heading">University of California, San Diego (UC San Diego)</h4>
             <ul>
                 <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
@@ -101,13 +108,15 @@
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
-                <br>
                 <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
-                <ul>
-                <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
-                <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
-                </ul>
-            <h4 class="university-heading">San Diego State University</h4>
+                    <ul>
+                        <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
+                        <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h4 class="university-heading">San Diego State University (SDSU)</h4>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
             </ul>
@@ -122,20 +131,20 @@
             <h2>Students</h2>
             
             <h2>Awards</h2>
-                <ul>
+            <ul>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
                 <li>DAC Young Fellow at the 61st Design Automation Conference in San Francisco, 2024</li>
                 <li>SRC Research Scholar and awarded funding for conference participation, 2024</li>
                 <li>UCSD travel grant, 2024</li>
                 <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
-                </ul>
+            </ul>
                 
-            <h2>Talks</h2> 
-                <ul>
+            <h2>Invited Talks</h2> 
+            <ul>
                 <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
                 <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
-                <li>Colegio San Agustin-Bacolod University’s 60th Founding Anneversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
-                </ul>
+                <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
+            </ul>
         </div>
     </div>
 </body>
