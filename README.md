@@ -126,6 +126,5 @@
 <h2>CV</h2>
 
 <h2>Students</h2>
-    </div>
 </body>
 </html>
