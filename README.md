@@ -92,7 +92,7 @@
 
             <h3>Teaching</h3>
 
-            <h4 class="university-heading">University of California, San Diego (UC San Diego)</h4>
+            <h4 class="university-heading">University of California, San Diego</h4>
             <ul>
                 <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
@@ -109,7 +109,7 @@
                 </ul>
             </ul>
 
-            <h4 class="university-heading">San Diego State University (SDSU)</h4>
+            <h4 class="university-heading">San Diego State University</h4>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
             </ul>
