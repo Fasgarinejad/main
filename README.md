@@ -155,8 +155,26 @@
                 <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
             </ul>
 
-            <!-- Publications -->
-            <h3 class="section-heading">Publications</h3>
+<!-- Publications -->
+<h3 class="section-heading">Publications</h3>
+<ul>
+    <li><strong>F. Asgarinejad</strong>, F. Ponzina, O. Gungor, T. Rosing, B. Aksanli, “HDXpose: Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, ICCAD, 2024.</li>
+    <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli “VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification”, ISLPED, 2024.</li>
+    <li>M. Gaddi, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</li>
+    <li><strong>F. Asgarinejad</strong>, J. Morris, T. Rosing, B. Aksanli “PIONEER: Towards Highly Efficient and Accurate Hyperdimensional Computing using Learned Projection”, ASP-DAC, 2024.</li>
+    <li><strong>F. Asgarinejad</strong>, A. Thomas, R. Hildebrant, Z Zhang, S. Ren. Rosing, B. Aksanli “Optimized Early Prediction of Business Processes with Hyperdimensional Computing”, MDPI Information, 2024.</li>
+    <li><strong>F. Asgarinejad</strong>, X. Yu, D. Jiang, J. Morris, T. Rosing, B. Aksanli, “Enhanced Noise-Resilient Pressure Mat System Based on Hyperdimensional Computing”, MDPI Sensors, 2024.</li>
+    <li>R. Chandrasecaran, <strong>F. Asgarinejad</strong>, J. Morris, T. Rosing “Multi-label classification with Hyperdimensional Representations”, IEEE ACCESS, 2023.</li>
+    <li>X. Yu, M. Zhou, <strong>F. Asgarinejad</strong>, O. Gungor, B. Aksanli, T. Rosing “Lightning Talk: Private and Secure Edge AI with Hyperdimensional Computing”, DAC, 2023.</li>
+    <li>Z. Zhang, R. Hildebrant, <strong>F. Asgarinejad</strong>, N. Venkatasubramanian, S. Ren, “Improving Process Discovery Results by Filtering Out Outliers from Event Logs with Hidden Markov Models”, CBI, 2021.</li>
+    <li>R. Garcia, <strong>F. Asgarinejad</strong>, et al., “TruLook: A Framework for Configurable GPU Approximation”, DATE, 2021.</li>
+    <li><strong>F. Asgarinejad</strong>, A. Thomas, T. Rosing, “Detection of Epileptic Seizures from Surface EEG using Hyperdimensional Computing”, EMBC, 2020.</li>
+    <li>B. Khaleghi, S. Salamat, A. Thomas, <strong>F. Asgarinejad</strong>, Y. Kim, T. Rosing “SHEARer Highly-Efficient Hyperdimensional Computing by Software-Hardware Enabled Multifold Approximation”, ISLPED, 2020.</li>
+    <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, T. Rosing, B. Aksanli, “Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques”, under preparation.</li>
+</ul>
+
+
+            
             
             <!-- Students -->
             <h3 class="section-heading">Students</h3>
