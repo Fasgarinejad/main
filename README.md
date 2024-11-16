@@ -160,6 +160,12 @@
             
             <!-- Students -->
             <h3 class="section-heading">Students</h3>
+            <ul>
+                <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
+                <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
+                <li> Lilianne Montehermoso, High School student, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
+                <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
+            </ul>
             
             <!-- Awards -->
             <h3 class="section-heading">Awards</h3>
@@ -171,7 +177,7 @@
                 <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
             </ul>
                 
-            <!-- Talks -->
+            <!-- Invitd Talks -->
             <h3 class="section-heading">Talks</h3>
             <ul>
                 <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
