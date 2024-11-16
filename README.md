@@ -7,8 +7,8 @@
     <style>
         /* Style for the violet box */
         .violet-box {
-            background-color: violet; /* Violet background color */
-            color: white; /* White text color */
+            background-color: #d0f0c0; /* Very light mint green background color */
+            color: black; /* Black text color for good contrast */
             padding: 20px; /* Padding inside the box */
             border-radius: 10px; /* Rounded corners */
             font-size: 16px; /* Font size */
