@@ -87,24 +87,45 @@
                 
                I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
             
-            <h2>Teaching</h2>
-            • Instructor (University of California, San Diego) CSE 20 (Discrete Mathematics)<br>
-            • Teaching Assistant (University of California, San Diego) Computer Science and Engineering<br>
-            • CSE 101 (Design and Analysis of Algorithms) (Summer 2023)<br>
-            • CSE 20 (Discrete Mathematics) (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023)<br>
-            • CSE 21 (Mathematics for Algorithms and Systems Analysis) (Winter, Spring, and Fall 2024)<br><br>
-            Halıcıo ̆glu Data Science Institute<br>
-            • DSC 200 (Data Science Programming) (Fall 2023)<br>
-            • DSC 40A (Theoretical Foundations of Data Science) (Summer 2023)<br>
-            • Instructor (SDSU)<br>
-            First Year Seminars (four classes)<br>
-            • Teaching Assistant (University of California, San Diego Extension) DSE220x Machine Learning Fundamentals (Prof. Sanjoy Dasgupta) (three semesters)<br>
-            <h2>Publications</h2>
-            <h2>Awards</h2>
-            <h2>Talks</h2>
-            <h2>CV</h2>
-            <h2>Students</h2>
-        </div>
+<h2>Teaching Experience</h2>
+
+<h3>University of California, San Diego (UC San Diego)</h3>
+<ul>
+    <li><strong>Instructor, CSE 20</strong> (Discrete Mathematics)</li>
+    <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
+        <ul>
+            <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
+            <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023)</li>
+            <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
+        </ul>
+    </li>
+</ul>
+
+<h3>Halıcıoğlu Data Science Institute</h3>
+<ul>
+    <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
+    <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
+</ul>
+
+<h3>San Diego State University (SDSU)</h3>
+<ul>
+    <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
+</ul>
+
+<h3>UC San Diego Extension</h3>
+<ul>
+    <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
+</ul>
+
+<h2>Publications</h2>
+
+<h2>Awards</h2>
+
+<h2>Talks</h2>
+
+<h2>CV</h2>
+
+<h2>Students</h2>
     </div>
 </body>
 </html>
