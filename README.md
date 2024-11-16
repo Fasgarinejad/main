@@ -87,7 +87,7 @@
 
             <h2>Teaching Experience</h2>
 
-        <h3>University of California, San Diego (UC San Diego)</h3>
+        <h2>University of California, San Diego (UC San Diego)</h2>
         <ul>
             <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
             <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
@@ -105,15 +105,12 @@
             </ul>
         </ul>
 
-
-
-
-            <h2>San Diego State University (SDSU)</h3>
+            <h2>San Diego State University (SDSU)</h2>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
             </ul>
 
-            <h3>UC San Diego Extension</h3>
+            <h2>UC San Diego Extension</h2>
             <ul>
                 <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
             </ul>
