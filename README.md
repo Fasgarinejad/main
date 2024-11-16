@@ -38,14 +38,37 @@
             font-size: 16px;
             line-height: 1.5;
         }
-        .right-column h2, .right-column h3, .right-column h4 {
-            margin-top: 20px;
-            font-size: 24px;
+        /* Smaller font size for section headings */
+        h3, h4 {
+            font-size: 18px;  /* Set font size for smaller headings */
+            margin-top: 10px;
+            font-weight: bold;
         }
+
         /* Smaller font size for university headings */
         .university-heading {
-            font-size: 18px; /* Adjust size here */
+            font-size: 18px;  /* Same size for university headings */
+            margin-top: 10px;
             font-weight: bold;
+        }
+
+        /* Adding border-bottom to headings like "Awards", "Talks", etc. */
+        h2, h3, h4 {
+            border-bottom: 2px solid #0073e6; /* Blue line below headings */
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+
+        /* Custom bullet points for unordered lists */
+        ul {
+            list-style-type: none; /* Remove default bullets */
+            padding-left: 0;
+        }
+        li::before {
+            content: "•";  /* Default bullet */
+            color: #0073e6; /* Blue bullet color */
+            font-size: 20px;
+            margin-right: 10px;
         }
 
         .links {
@@ -58,24 +81,13 @@
             color: #0073e6;
             text-decoration: none;
             margin: 0 10px;
-            font-size: 24px;
+            font-size: 24px; /* Size of the icons */
         }
         .links a:hover {
-            color: #0056b3;
+            color: #0056b3; /* Darker shade on hover */
         }
-
         .anchor {
             display: none !important;
-        }
-
-        /* Ensure consistent formatting of headings and lists */
-        ul {
-            list-style-type: none;
-            padding-left: 20px;
-        }
-
-        li {
-            margin-bottom: 10px;
         }
     </style>
 </head>
@@ -92,13 +104,14 @@
             </div>
         </div>
         <div class="column right-column">
-            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli</a>.</p>
-
-            <p>I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
+            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under supervision of <a href="https://cseweb.ucsd.edu/~trosing/" title="Prof_Rosing">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/" title="Prof_Rosing">Prof. Baris Aksanli</a>. <br>       
+                
+               I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
 
             <h3>Teaching</h3>
-
-            <h4 class="university-heading">University of California, San Diego (UC San Diego)</h4>
+            
+            <!-- University of California, San Diego -->
+            <h4 class="university-heading">University of California, San Diego</h4>
             <ul>
                 <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
@@ -108,30 +121,34 @@
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
-                <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
-                    <ul>
-                        <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
-                        <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
-                    </ul>
-                </li>
+            </ul>
+            
+            <!-- Halıcıoğlu Data Science Institute -->
+            <h4 class="university-heading">Halıcıoğlu Data Science Institute</h4>
+            <ul>
+                <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
+                <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
             </ul>
 
-            <h4 class="university-heading">San Diego State University (SDSU)</h4>
+            <!-- San Diego State University -->
+            <h4 class="university-heading">San Diego State University</h4>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
             </ul>
 
+            <!-- UC San Diego Extension -->
             <h4 class="university-heading">UC San Diego Extension</h4>
             <ul>
                 <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
             </ul>
 
+            <!-- Publications -->
             <h2>Publications</h2>
             
+            <!-- Students -->
             <h2>Students</h2>
-            <ul>
-                <li></li>
-            <ul>
+            
+            <!-- Awards -->
             <h2>Awards</h2>
             <ul>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
@@ -141,7 +158,8 @@
                 <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
             </ul>
                 
-            <h2>Invited Talks</h2> 
+            <!-- Talks -->
+            <h2>Talks</h2>
             <ul>
                 <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
                 <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
