@@ -50,13 +50,26 @@
             font-size: 18px;  /* Same size for university headings */
             margin-top: 10px;
             font-weight: bold;
+            border-bottom: none; /* Remove border under university names */
         }
 
-        /* Adding border-bottom to headings like "Awards", "Talks", etc. */
-        h2, h3, h4 {
-            border-bottom: 2px solid #0073e6; /* Blue line below headings */
+        /* Add border under "Teaching", "Publications", "Students", "Talks", and "Awards" */
+        .section-heading {
+            font-size: 18px;
+            font-weight: bold;
+            border-bottom: 2px solid #0073e6; /* Blue line below the headings */
             padding-bottom: 5px;
             margin-bottom: 10px;
+        }
+
+        /* Inline styling for "Halıcıoğlu Data Science Institute" and "Teaching Assistant" */
+        .inline-list {
+            display: flex;
+            align-items: center; /* Align the items vertically centered */
+        }
+        .inline-list li {
+            display: inline-block;
+            margin-right: 10px; /* Add space between list items */
         }
 
         /* Custom bullet points for unordered lists */
@@ -108,7 +121,7 @@
                 
                I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
 
-            <h3>Teaching</h3>
+            <h3 class="section-heading">Teaching</h3>
             
             <!-- University of California, San Diego -->
             <h4 class="university-heading">University of California, San Diego</h4>
@@ -123,11 +136,11 @@
                 </li>
             </ul>
             
-            <!-- Halıcıoğlu Data Science Institute -->
-            <h4 class="university-heading">Halıcıoğlu Data Science Institute</h4>
-            <ul>
-                <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
-                <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
+            <!-- Teaching Assistant, Halıcıoğlu Data Science Institute and Teaching Assistant (inline) -->
+            <ul class="inline-list">
+                <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong></li>
+                <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
+                <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
             </ul>
 
             <!-- San Diego State University -->
@@ -143,13 +156,13 @@
             </ul>
 
             <!-- Publications -->
-            <h2>Publications</h2>
+            <h3 class="section-heading">Publications</h3>
             
             <!-- Students -->
-            <h2>Students</h2>
+            <h3 class="section-heading">Students</h3>
             
             <!-- Awards -->
-            <h2>Awards</h2>
+            <h3 class="section-heading">Awards</h3>
             <ul>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
                 <li>DAC Young Fellow at the 61st Design Automation Conference in San Francisco, 2024</li>
@@ -159,7 +172,7 @@
             </ul>
                 
             <!-- Talks -->
-            <h2>Talks</h2>
+            <h3 class="section-heading">Talks</h3>
             <ul>
                 <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
                 <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
