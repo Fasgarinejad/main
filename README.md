@@ -91,7 +91,6 @@
                I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
 
             <h3>Teaching</h3>
-
             <h4 class="university-heading">University of California, San Diego</h4>
             <ul>
                 <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
