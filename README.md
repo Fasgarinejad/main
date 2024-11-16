@@ -90,9 +90,9 @@
                 
                I am actively seeking academic positions with a strong focus on <strong>teaching</strong> in the job market.</p>
 
-            <h2>Teaching Experience</h2>
+            <h3>Teaching</h3>
 
-            <h2 class="university-heading">University of California, San Diego (UC San Diego)</h2>
+            <h4 class="university-heading">University of California, San Diego (UC San Diego)</h4>
             <ul>
                 <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
@@ -102,25 +102,25 @@
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
-            </ul>
-
-            <h2 class="university-heading">Halıcıoğlu Data Science Institute</h2>
-            <ul>
+                <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
+                <ul>
                 <li><strong>Instructor, DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                 <li><strong>Instructor, DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
+                </ul>
             </ul>
 
-            <h2 class="university-heading">San Diego State University (SDSU)</h2>
+            <h4 class="university-heading">San Diego State University (SDSU)</h4>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
             </ul>
 
-            <h2 class="university-heading">UC San Diego Extension</h2>
+            <h4 class="university-heading">UC San Diego Extension</h4>
             <ul>
                 <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters)</li>
             </ul>
 
             <h2>Publications</h2>
+            
 
             <h2>Awards</h2>
 
