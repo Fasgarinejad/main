@@ -219,6 +219,17 @@
                 <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
                 <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
             </ul>
+
+    <!-- Diversity, Inclusion & Mentorship -->
+    <h3 class="section-heading">Diversity, Inclusion & Mentorship</h3>
+    <ul>
+        <li>Women In Computing Mentorship Program (at UC San Diego), Sep 2024-present</li>
+        <li>Research Mentor (at UC San Diego, SEElab), August 2023-present</li>
+        <li>Research Mentor (at UC San Diego, PRISM Center), Virtual High School Research Program for high school students, Summer 2024</li>
+        <li>Python Summer School Mentor (at Sharif University of Technology, under supervision of Prof. Ali Sharifi-Zarchi), Summer 2023</li>
+        <li>HKN (Eta Kappa Nu) Honor Society of UC San Diego Outreach Program for middle-school and High-school students, May 2022-present</li>
+    </ul>
+
         </div>
     </div>
 </body>
