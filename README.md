@@ -66,7 +66,7 @@
             border-bottom: none; /* Remove border under university names */
         }
 
-        /* Add border under "Teaching", "Publications", "Students", "Talks", and "Awards" */
+        /* Add border under "Teaching", "Publications", "Mentorship", "Talks", and "Awards" */
         .section-heading {
             font-size: 18px;
             font-weight: bold;
@@ -192,8 +192,8 @@
                 <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, T. Rosing, B. Aksanli, “Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques”, under preparation.</li>
             </ul>
 
-            <!-- Students -->
-            <h3 class="section-heading">Students</h3>
+            <!-- Mentorship -->
+            <h3 class="section-heading">Mentorship</h3>
             <ul>
                 <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
                 <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
