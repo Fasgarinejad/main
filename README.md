@@ -147,7 +147,7 @@
                 <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024) <strong>Recommendation: 92.3%</strong></li>
                 </ul>
 
-                Average recommendation across 10 quarters as teaching assistant: <strong>90.6%</strong>
+                Average recommendation across 10 quarters as teaching assistant: <strong>90.6%</strong><br>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
