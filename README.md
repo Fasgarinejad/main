@@ -1,6 +1,7 @@
 
 <html lang="en">
 <head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -121,9 +122,9 @@
     <div class="container">
         <div class="column left-column">
             <img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
-            <div class="links">
+            <div>
                 <a href="https://www.linkedin.com/in/fatemeh-asgarinejad/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="https://github.com/Fasgarinejad" target="_blank" title="Stack Overflow"><i class="fab fa-stack-overflow"></i></a>
+                <a href="https://github.com/Fasgarinejad" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
                 <a href="mailto:fasgarinejad@ucsd.edu" title="Email"><i class="fas fa-envelope"></i></a>
                 <a href="https://www.youtube.com/@fatemehasgarinejad" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
                 <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
