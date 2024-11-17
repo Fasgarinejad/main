@@ -144,7 +144,7 @@ can you fix the tags in here:
 
             <ul>
                 <li><strong>Instructor, Computer Science and Engineering</li>
-                <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024) Recommendation: <strong>92.3%</strong></li>
+                <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024) <strong>Recommendation: 92.3%</strong></li>
                 
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
