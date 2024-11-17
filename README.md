@@ -158,12 +158,10 @@
 
                         <!-- Teaching Assistant, Halıcıoğlu Data Science Institute -->
            <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
-            <ul>
-                    <ul>
-                        <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
+                <ul>
+                <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                         <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
-                    </ul>
-            </ul>
+                        </ul>
 
 
             <!-- San Diego State University -->
@@ -219,7 +217,7 @@
             </ul>
 
             <!-- Invited Talks -->
-            <h3 class="section-heading">Talks</h3>
+            <h3 class="section-heading">Invited Talks</h3>
             <ul>
                 <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
                 <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
