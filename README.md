@@ -130,7 +130,7 @@
             </div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
             <img src="c.png" alt="third image" style="max-width: 100%; height: auto; margin-top: 20px;">
-
+            <img src="chucks.png" alt="third image" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div>
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh"), a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of Prof. Tajana Rosing and Prof. Baris Aksanli.</p>
