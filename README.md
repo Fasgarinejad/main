@@ -173,7 +173,7 @@
             <!-- UC San Diego Extension -->
             <h4 class="university-heading">UC San Diego Extension</h4>
             <ul>
-                <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters 2019-2020)</li>
+                <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters Sep 2019- Sep 2020)</li>
             </ul>
 
             <!-- Publications -->
