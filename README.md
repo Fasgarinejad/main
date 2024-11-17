@@ -155,16 +155,17 @@
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
-            </ul>
 
-            <!-- Teaching Assistant, Halıcıoğlu Data Science Institute -->
-            <h4 class="university-heading">Halıcıoğlu Data Science Institute</h4>
+                        <!-- Teaching Assistant, Halıcıoğlu Data Science Institute -->
+           <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
             <ul>
                     <ul>
                         <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                         <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
                     </ul>
             </ul>
+            </ul>
+
 
             <!-- San Diego State University -->
             <h4 class="university-heading">San Diego State University</h4>
