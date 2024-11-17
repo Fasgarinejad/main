@@ -169,7 +169,7 @@
             <!-- San Diego State University -->
             <h4 class="university-heading">San Diego State University</h4>
             <ul>
-                <li><strong>Instructor:</strong> First Year Seminars (Four Classes)</li>
+                <li><strong>Instructor:</strong> First Year Seminars (Four Classes), 2021</li>
             </ul>
 
             <!-- UC San Diego Extension -->
