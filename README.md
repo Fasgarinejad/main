@@ -195,7 +195,7 @@
                 <li>R. Garcia, <strong>F. Asgarinejad</strong>, et al., “TruLook: A Framework for Configurable GPU Approximation”, DATE, 2021.</li>
                 <li><strong>F. Asgarinejad</strong>, A. Thomas, T. Rosing, “Detection of Epileptic Seizures from Surface EEG using Hyperdimensional Computing”, EMBC, 2020.</li>
                 <li>B. Khaleghi, S. Salamat, A. Thomas, <strong>F. Asgarinejad</strong>, Y. Kim, T. Rosing “SHEARer Highly-Efficient Hyperdimensional Computing by Software-Hardware Enabled Multifold Approximation”, ISLPED, 2020.</li>
-                <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, T. Rosing, B. Aksanli, “Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques”, under preparation.</li>
+                <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques”, under preparation.</li>
             </ul>
 
             <!-- Mentorship -->
