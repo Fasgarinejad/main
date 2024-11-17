@@ -139,6 +139,7 @@
 
             <!-- University of California, San Diego -->
             <h4 class="university-heading">University of California, San Diego</h4>
+            (average recommendation across 11 quarters: 90.6\%)
             <ul>
                 <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
