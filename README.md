@@ -139,9 +139,11 @@
 
             <!-- University of California, San Diego -->
             <h4 class="university-heading">University of California, San Diego</h4>
-            (average recommendation across 11 quarters: 90.6\%)
+
             <ul>
-                <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li>
+                <li><strong>Instructor, CSE 20 (Summer 2024)</strong> (Discrete Mathematics)</li> Recommendation: 92.3%
+
+                Average recommendation across 10 quarters as TA: 90.6%
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
