@@ -144,9 +144,8 @@ can you fix the tags in here:
 
             <ul>
                 <li><strong>Instructor, Computer Science and Engineering</li>
-                <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024) Recommendation: <strong>92.3%</strong><br></li><br>
+                <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024) Recommendation: <strong>92.3%</strong></li>
                 
-                Average recommendation across 10 quarters as teaching assistant: <strong>90.6%</strong>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
