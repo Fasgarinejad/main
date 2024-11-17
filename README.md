@@ -160,12 +160,10 @@
             <!-- Teaching Assistant, Halıcıoğlu Data Science Institute -->
             <h4 class="university-heading">Halıcıoğlu Data Science Institute</h4>
             <ul>
-                <li><strong>Teaching Assistant:</strong></li>
                     <ul>
                         <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                         <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
                     </ul>
-                </li>
             </ul>
 
             <!-- San Diego State University -->
