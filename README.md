@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
@@ -36,7 +35,7 @@
             box-sizing: border-box;
         }
         .left-column {
-            flex: 1;
+            flex: 2;  /* Make the left column larger */
             text-align: center;
         }
         .left-column img {
@@ -44,7 +43,7 @@
             height: auto;
         }
         .right-column {
-            flex: 2;
+            flex: 1;  /* Make the right column smaller */
             padding-left: 40px;
         }
         .right-column p {
@@ -130,7 +129,6 @@
                 <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
             </div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
-
         </div> 
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad, a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of <a href="https://cseweb.ucsd.edu/~trosing/">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Prof. Baris Aksanli</a>.</p>
@@ -182,7 +180,7 @@
             <h3 class="section-heading">Publications</h3>
             <ul>
                 <li><strong>F. Asgarinejad</strong>, F. Ponzina, O. Gungor, T. Rosing, B. Aksanli, “HDXpose: Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, ICCAD, 2024.</li>
-<li style="white-space: nowrap;">
+                <li style="white-space: nowrap;">
     <strong>F. Asgarinejad</strong>, J. Morris, T. Rosing, B. Aksanli 
     <a href="https://dl.acm.org/doi/abs/10.1145/3665314.3670852">“VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification”</a>, 
     ISLPED, 2024.
