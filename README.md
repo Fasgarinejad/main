@@ -129,7 +129,7 @@
                 <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
             </div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
-            <img src="image2.png.png" alt="third image" style="max-width: 100%; height: auto; margin-top: 20px;">
+            <img src="image2.png" alt="third image" style="max-width: 100%; height: auto; margin-top: 20px;">
 
         </div>
         <div class="column right-column">
