@@ -196,7 +196,9 @@
             <ul>
                 <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
                 <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
-                <li>Lilianne Montehermoso, High School student, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
+                <li>A.J. Olivares, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li?
+                <li>Lilianne Montehermoso, High School student, PRISM Center Research Program, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
+
             </ul>
 
             <!-- Awards -->
