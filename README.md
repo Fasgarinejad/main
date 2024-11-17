@@ -164,7 +164,6 @@
                         <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
                     </ul>
             </ul>
-            </ul>
 
 
             <!-- San Diego State University -->
