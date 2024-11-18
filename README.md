@@ -4,6 +4,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
+
+        /* Styling for the slide link */
+.slide-link {
+    background: linear-gradient(135deg, rgba(243, 229, 0, 0.5) 30%, rgba(0, 198, 215, 0.5) 80%); /* Same gradient */
+    color: black; /* Black text for good contrast */
+    padding: 4px 8px; /* Padding to make it look like a small button */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline from the link */
+    font-size: 14px; /* Match the font size of the list */
+    margin-left: 8px; /* Add some space between the item and the "slide" link */
+    display: inline-block; /* Make it behave like a button */
+    
+    /* Lightened, more subtle shadow */
+    box-shadow: 2px 2px 6px rgba(0, 198, 215, 0.1); /* Soft, less intense cyan shadow */
+}
+
+.slide-link:hover {
+    background: linear-gradient(135deg, rgba(243, 229, 0, 0.7) 30%, rgba(0, 198, 215, 0.7) 80%); /* Darker on hover */
+    box-shadow: 2px 2px 8px rgba(0, 198, 215, 0.2); /* Slightly darker shadow on hover */
+}
+
         /* Style for the violet box */
         .violet-box {
             background-color: #f0fff0; /* Very light mint green background color */
@@ -161,7 +182,8 @@
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div> 
         <div class="column right-column">
-            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad, a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of <a href="https://cseweb.ucsd.edu/~trosing/">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Prof. Baris Aksanli</a>.</p>
+            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad, a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of <a href="https://cseweb.ucsd.edu/~trosing/">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Prof. Baris Aksanli</a>. You can find my candidacy slides from <a href="candidacy.pdf" class="slide-link" target="_blank">here</a>
+</p>
             <div class="violet-box">
                 I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
             </div>
@@ -253,6 +275,12 @@
                 <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
                 <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
                 <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
+            </ul>
+
+            <h3 class="section-heading">Conferene Talks</h3>
+                <li>ICCAD, 2024 <a href="candidacy.pdf" class="slide-link" target="_blank">slide</a></li>
+                <li>ASP-DAC, 2024 <a href="candidacy.pdf" class="slide-link" target="_blank">slide</a></li>
+                <li>EMBC, 2020 <a href="candidacy.pdf" class="slide-link" target="_blank">slide</a></li>
             </ul>
 
             <!-- Diversity, Inclusion & Mentorship -->
