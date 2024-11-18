@@ -156,7 +156,7 @@
             <ul>
                 <li><strong>Instructor</strong>, Computer Science and Engineering
                     <ul>
-                        <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024)</li>
+                        <li><a href="CSE20_Summer_2024.html><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024)</a></li>
                     </ul>
                 </li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
