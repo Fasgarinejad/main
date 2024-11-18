@@ -119,14 +119,29 @@
 <body>
     <div class="container">
         <div class="column left-column">
-            <img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
-            <div class="links">
-                <a href="https://www.linkedin.com/in/fatemeh-asgarinejad/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="https://github.com/Fasgarinejad" target="_blank" title="Stack Overflow"><i class="fab fa-stack-overflow"></i></a>
-                <a href="mailto:fasgarinejad@ucsd.edu" title="Email"><i class="fas fa-envelope"></i></a>
-                <a href="https://www.youtube.com/@fatemehasgarinejad" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
-                <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
-            </div>
+<img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
+<div class="links">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/fatemeh-asgarinejad/" title="LinkedIn">
+        <i class="fab fa-linkedin-in"></i>
+    </a>
+    <!-- GitHub -->
+    <a href="https://github.com/Fasgarinejad" target="_blank" title="GitHub">
+        <i class="fab fa-github"></i>
+    </a>
+    <!-- Email -->
+    <a href="mailto:fasgarinejad@ucsd.edu" title="Email">
+        <i class="fas fa-envelope"></i>
+    </a>
+    <!-- YouTube -->
+    <a href="https://www.youtube.com/@fatemehasgarinejad" target="_blank" title="YouTube">
+        <i class="fab fa-youtube"></i>
+    </a>
+    <!-- Google Scholar (custom SVG logo) -->
+    <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+    </a>
+</div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div> 
         <div class="column right-column">
