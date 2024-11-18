@@ -185,6 +185,12 @@
             <ul>
                 <li><strong>Teaching Assistant:</strong> DSE 220x - Machine Learning Fundamentals (Prof. Sanjoy Dasgupta, Three Semesters Sep 2019 - Aug 2020)</li>
             </ul>
+            
+                <h4 class="university-heading">UC San Diego Teaching Certificates</h4>        
+            <ul>
+            <li><strong>UC San Diego Student-Centered College Teaching \& Course Design Certificate</strong></li>
+            <li><strong>Leadership in Teaching: Graduate Peer Review of Instruction Program Certificate</strong></li>
+            </ul>
 
             <!-- Publications -->
             <h3 class="section-heading">Publications</h3>
