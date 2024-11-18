@@ -138,9 +138,7 @@
         <i class="fab fa-youtube"></i>
     </a>
     <!-- Google Scholar (custom SVG logo) -->
-                <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
-                </a>
+                <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en"><span class="icon icon-link icon--google-scholar">{% include icon-google-scholar.svg %}</span></a>
 </div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div> 
@@ -190,7 +188,7 @@
             <h3 class="section-heading">Publications</h3>
             <ul>
                 <li><strong>F. Asgarinejad</strong>, F. Ponzina, O. Gungor, T. Rosing, B. Aksanli, “HDXpose: Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, ICCAD, 2024.</li>
-                <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli “VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification”, ISLPED, 2024.  <a href="https://dl.acm.org/doi/abs/10.1145/3665314.3670852" target="_blank">&#128458;</a></li>
+                <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli “<strong>VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification</strong>”, ISLPED, 2024.  <a href="https://dl.acm.org/doi/abs/10.1145/3665314.3670852" target="_blank">PDF</a></li>
                 <li>M. Gaddi, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</li>
                 <li><strong>F. Asgarinejad</strong>, J. Morris, T. Rosing, B. Aksanli “PIONEER: Towards Highly Efficient and Accurate Hyperdimensional Computing using Learned Projection”, ASP-DAC, 2024.</li>
                 <li><strong>F. Asgarinejad</strong>, A. Thomas, R. Hildebrant, Z Zhang, S. Ren. Rosing, B. Aksanli “Optimized Early Prediction of Business Processes with Hyperdimensional Computing”, MDPI Information, 2024.</li>
