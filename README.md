@@ -17,6 +17,22 @@
             max-width: 90%; /* Limit the width to 90% of its container */
             word-wrap: break-word; /* Ensure long words don't overflow */
         }
+.v-box {
+    background: linear-gradient(135deg, #F6A800 30%, #003B5C 80%); /* Gradient from UCSD Yellow to Navy Blue */
+    color: black; /* Black text color for good contrast */
+    padding: 8px 12px; /* Padding just around the text */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Font size */
+    margin: 10px 0; /* Small margin to separate from other elements */
+    text-align: left; /* Left-align the text */
+    font-family: Arial, sans-serif; /* Set font */
+    max-width: 90%; /* Limit the width to 90% of its container */
+    word-wrap: break-word; /* Ensure long words don't overflow */
+    
+    /* Add shadow effect */
+    box-shadow: 4px 4px 8px rgba(0, 59, 92, 0.5); /* Shadow in navy blue */
+}
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -156,7 +172,7 @@
             <ul>
                 <li><strong>Instructor</strong>, Computer Science and Engineering
                     <ul>
-                        <li><a href="CSE20_Summer_2024.html" class="violet-box"><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024)</a></li>
+                        <li><a href="CSE20_Summer_2024.html" class="v-box"><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024)</a></li>
                     </ul>
                 </li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
