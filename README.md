@@ -188,7 +188,7 @@
             
                 <h4 class="university-heading">UC San Diego Teaching Certificates</h4>        
             <ul>
-            <li><strong>UC San Diego Student-Centered College Teaching \& Course Design Certificate</strong></li>
+            <li><strong>UC San Diego Student-Centered College Teaching & Course Design Certificate</strong></li>
             <li><strong>Leadership in Teaching: Graduate Peer Review of Instruction Program Certificate</strong></li>
             </ul>
 
