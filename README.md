@@ -277,7 +277,7 @@
                 <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
             </ul>
 
-            <h3 class="section-heading">Conferene Talks</h3>
+            <h4>Conferene Talks</h4>
                 <li>ICCAD, 2024 <a href="ICCAD24.pdf">slides</a></li>
                 <li>ASP-DAC, 2024 <a href="ASPDAC24.pdf">slides</a></li>
                 <li>EMBC, 2020 <a href="EMBC202.pdf">slides</a></li>
