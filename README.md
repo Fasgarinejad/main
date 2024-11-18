@@ -138,7 +138,9 @@
         <i class="fab fa-youtube"></i>
     </a>
     <!-- Google Scholar (custom SVG logo) -->
-                <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en"><span class="icon icon-link icon--google-scholar">{% include icon-google-scholar.svg %}</span></a>
+        <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar">
+        <img src="google-scholar.svg" alt="Google Scholar" style="width: 30px; height: auto;">
+    </a>
 </div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div> 
