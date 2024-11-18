@@ -138,9 +138,9 @@
         <i class="fab fa-youtube"></i>
     </a>
     <!-- Google Scholar (custom SVG logo) -->
-    <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
-    </a>
+                <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+                </a>
 </div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div> 
