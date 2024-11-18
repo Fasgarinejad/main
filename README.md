@@ -275,8 +275,7 @@
             <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
             <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
             <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
-        </ul>
-        
+
         <!-- Conference Talks -->
         <h4>Conference Talks</h4>
         <ul>
@@ -284,6 +283,8 @@
             <li>ASP-DAC, 2024 <a href="https://drive.google.com/file/d/1UA5_tglLJhhkm3kLhmsZYRfLL5nprNRq/view?usp=sharing">slides</a></li>
             <li>EMBC, 2020 <a href="https://drive.google.com/file/d/1G-7ESC-DQj2xH6xuVQStgZYvNy5kauNS/view?usp=sharing">slides</a> | <a href="https://www.youtube.com/watch?v=ch0Mm9_5cPw">presentation</a></li>
         </ul>
+        </ul>
+    
 
 
             <!-- Diversity, Inclusion & Mentorship -->
