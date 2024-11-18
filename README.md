@@ -278,9 +278,9 @@
             </ul>
 
             <h4>Conferene Talks</h4>
-                <li>ICCAD, 2024 <a href="ICCAD24.pdf">slides</a></li>
+                <li>ICCAD, 2024 <a href="https://drive.google.com/file/d/1aoMJYb87zvwgYjKihUkDwLyLlLSKWa-a/view?usp=sharing">slides</a></li>
                 <li>ASP-DAC, 2024 <a href="ASPDAC24.pdf">slides</a></li>
-                <li>EMBC, 2020 <a href="EMBC202.pdf">slides</a></li>
+                <li>EMBC, 2020 <a href="EMBC202.pdf">slides</a>  <a href="[EMBC202.pdf](https://www.youtube.com/watch?v=ch0Mm9_5cPw)">presentation</a></li>
             </ul>
 
             <!-- Diversity, Inclusion & Mentorship -->
