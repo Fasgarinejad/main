@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -129,7 +128,6 @@
                 <a href="https://scholar.google.com/citations?user=UjbstjkAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-book"></i></a>
             </div>
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
-
         </div> 
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad, a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of <a href="https://cseweb.ucsd.edu/~trosing/">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Prof. Baris Aksanli</a>.</p>
@@ -140,14 +138,13 @@
 
             <!-- University of California, San Diego -->
             <h4 class="university-heading">University of California, San Diego</h4>
-
             <ul>
-                <li><strong>Instructor</strong>, Computer Science and Engineering</li>
-                <ul>
-                <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024) <strong>Recommendation: 92.3%</strong></li>
-                </ul>
-
-                Average recommendation across 10 quarters as teaching assistant: <strong>90.6%</strong>
+                <li><strong>Instructor</strong>, Computer Science and Engineering
+                    <ul>
+                        <li><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024) <strong>Recommendation: 92.3%</strong></li>
+                    </ul>
+                </li>
+                <li>Average recommendation across 10 quarters as teaching assistant: <strong>90.6%</strong></li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
@@ -155,16 +152,13 @@
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
-
-                        <!-- Teaching Assistant, Halıcıoğlu Data Science Institute -->
-           <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
-            <ul>
+                <li><strong>Teaching Assistant, Halıcıoğlu Data Science Institute</strong>
                     <ul>
                         <li><strong>DSC 200:</strong> Data Science Programming (Fall 2023)</li>
                         <li><strong>DSC 40A:</strong> Theoretical Foundations of Data Science (Summer 2023)</li>
                     </ul>
+                </li>
             </ul>
-
 
             <!-- San Diego State University -->
             <h4 class="university-heading">San Diego State University</h4>
@@ -203,7 +197,6 @@
                 <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
                 <li>A.J. Olivares, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
                 <li>Lilianne Montehermoso, High School student, PRISM Center Research Program, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
-
             </ul>
 
             <!-- Awards -->
@@ -226,22 +219,21 @@
                 <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
             </ul>
 
-    <!-- Diversity, Inclusion & Mentorship -->
-    <h3 class="section-heading">Diversity, Inclusion & Mentorship</h3>
-    <ul>
-        <li>Women In Computing Mentorship Program (at UC San Diego), Sep 2024-present</li>
-        <li>Research Mentor (at UC San Diego, SEElab), August 2023-present</li>
-        <li>Research Mentor (at UC San Diego, PRISM Center), Virtual High School Research Program for high school students, Summer 2024</li>
-        <li>Python Summer School Mentor (at Sharif University of Technology, under supervision of Prof. Ali Sharifi-Zarchi), Summer 2023</li>
-        <li>HKN (Eta Kappa Nu) Honor Society of UC San Diego Outreach Program for middle-school and High-school students, May 2022-present</li>
-    </ul>
+            <!-- Diversity, Inclusion & Mentorship -->
+            <h3 class="section-heading">Diversity, Inclusion & Mentorship</h3>
+            <ul>
+                <li>Women In Computing Mentorship Program (at UC San Diego), Sep 2024-present</li>
+                <li>Research Mentor (at UC San Diego, SEElab), August 2023-present</li>
+                <li>Research Mentor (at UC San Diego, PRISM Center), Virtual High School Research Program for high school students, Summer 2024</li>
+                <li>Python Summer School Mentor (at Sharif University of Technology, under supervision of Prof. Ali Sharifi-Zarchi), Summer 2023</li>
+                <li>HKN (Eta Kappa Nu) Honor Society of UC San Diego Outreach Program for middle-school and High-school students, May 2022-present</li>
+            </ul>
 
-    <!-- Service -->
-    <h3 class="section-heading">Professional Service</h3>
-    <ul>
-        <li>Reviewer for ACM Computing Surveys</li>
-    </ul>
-    
+            <!-- Service -->
+            <h3 class="section-heading">Professional Service</h3>
+            <ul>
+                <li>Reviewer for ACM Computing Surveys</li>
+            </ul>
         </div>
     </div>
 </body>
