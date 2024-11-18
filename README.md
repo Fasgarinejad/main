@@ -18,7 +18,7 @@
             word-wrap: break-word; /* Ensure long words don't overflow */
         }
 .v-box {
-    background: linear-gradient(135deg, #F6A800 30%, #003B5C 80%); /* Gradient from UCSD Yellow to Navy Blue */
+    background: linear-gradient(135deg, rgba(243, 229, 0, 0.5) 30%, rgba(0, 198, 215, 0.5) 80%); /* 50% less intense colors */
     color: black; /* Black text color for good contrast */
     padding: 8px 12px; /* Padding just around the text */
     border-radius: 5px; /* Rounded corners */
@@ -29,9 +29,10 @@
     max-width: 90%; /* Limit the width to 90% of its container */
     word-wrap: break-word; /* Ensure long words don't overflow */
     
-    /* Add shadow effect */
-    box-shadow: 4px 4px 8px rgba(0, 59, 92, 0.5); /* Shadow in navy blue */
+    /* Lightened, more subtle shadow */
+    box-shadow: 4px 4px 10px rgba(0, 198, 215, 0.1); /* Soft, less intense cyan shadow */
 }
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
