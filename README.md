@@ -188,8 +188,8 @@
             <h3 class="section-heading">Publications</h3>
             <ul>
                 <li><strong>F. Asgarinejad</strong>, F. Ponzina, O. Gungor, T. Rosing, B. Aksanli, “HDXpose: Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, ICCAD, 2024.</li>
-                <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli “<strong>VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification</strong>”, ISLPED, 2024.  <a href="https://dl.acm.org/doi/abs/10.1145/3665314.3670852" target="_blank">PDF</a></li>
-                <li>M. Gaddi, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</li>
+                <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli “<a href="https://dl.acm.org/doi/abs/10.1145/3665314.3670852">VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification</strong>”, ISLPED, 2024.</a></li>
+                <li>M. Gaddi, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “<a href="">HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</a></li>
                 <li><strong>F. Asgarinejad</strong>, J. Morris, T. Rosing, B. Aksanli “PIONEER: Towards Highly Efficient and Accurate Hyperdimensional Computing using Learned Projection”, ASP-DAC, 2024.</li>
                 <li><strong>F. Asgarinejad</strong>, A. Thomas, R. Hildebrant, Z Zhang, S. Ren. Rosing, B. Aksanli “Optimized Early Prediction of Business Processes with Hyperdimensional Computing”, MDPI Information, 2024.</li>
                 <li><strong>F. Asgarinejad</strong>, X. Yu, D. Jiang, J. Morris, T. Rosing, B. Aksanli, “Enhanced Noise-Resilient Pressure Mat System Based on Hyperdimensional Computing”, MDPI Sensors, 2024.</li>
