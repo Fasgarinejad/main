@@ -26,14 +26,13 @@
     margin: 5px 0; /* Smaller margin to bring it closer to surrounding elements */
     text-align: left; /* Left-align the text */
     font-family: Arial, sans-serif; /* Set font */
-    max-width: 90%; /* Limit the width to 90% of its container */
+    width: auto; /* Allow width to shrink with content */
+    max-width: 80%; /* Set max-width to allow flexibility but still contain text */
     word-wrap: break-word; /* Ensure long words don't overflow */
     
     /* Lightened, more subtle shadow */
     box-shadow: 4px 4px 8px rgba(0, 198, 215, 0.1); /* Soft, less intense cyan shadow */
 }
-
-
 
         body {
             font-family: Arial, sans-serif;
