@@ -18,20 +18,21 @@
             word-wrap: break-word; /* Ensure long words don't overflow */
         }
 .v-box {
-    background: linear-gradient(135deg, #F3E500 30%, #00C6D7 80%); /* Lighter gradient from Yellow to Cyan */
+    background: linear-gradient(135deg, rgba(243, 229, 0, 0.5) 30%, rgba(0, 198, 215, 0.5) 80%); /* 50% less intense colors */
     color: black; /* Black text color for good contrast */
-    padding: 8px 12px; /* Padding just around the text */
+    padding: 4px 8px; /* Reduced padding for a smaller box */
     border-radius: 5px; /* Rounded corners */
-    font-size: 16px; /* Font size */
-    margin: 10px 0; /* Small margin to separate from other elements */
+    font-size: 14px; /* Slightly smaller font size */
+    margin: 5px 0; /* Smaller margin to bring it closer to surrounding elements */
     text-align: left; /* Left-align the text */
     font-family: Arial, sans-serif; /* Set font */
     max-width: 90%; /* Limit the width to 90% of its container */
     word-wrap: break-word; /* Ensure long words don't overflow */
     
-    /* Soft, washed-out shadow effect */
-    box-shadow: 4px 4px 10px rgba(0, 198, 215, 0.2); /* Soft cyan shadow for a subtle effect */
+    /* Lightened, more subtle shadow */
+    box-shadow: 4px 4px 8px rgba(0, 198, 215, 0.1); /* Soft, less intense cyan shadow */
 }
+
 
 
         body {
