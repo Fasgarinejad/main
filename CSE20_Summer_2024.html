@@ -3,219 +3,116 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Course Schedule</title>
-    <style>
-        /* General Body Styling */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #ffffff; /* Set the background to white */
-            position: relative;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            flex-direction: column;
-            min-height: 100vh; /* Ensure full height of the page */
-            padding-top: 20px; /* Adjusted padding from the top */
-        }
-
-        /* Container for the image and text */
-        .header-container {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-            width: 80%; /* Adjust width of the header */
-            margin-bottom: 10px; /* Reduced space between header and Week 1 */
-        }
-
-        /* Styling for the image */
-        .header-image {
-            max-width: 150px;
-            max-height: 150px;
-            margin-right: 20px;
-        }
-
-        /* Text next to the image */
-        .header-text {
-            font-size: 20px;
-            color: #333;
-        }
-
-        /* Week 1 Label Styling (now directly above the table) */
-        .week-label {
-            font-size: 32px;
-            font-weight: bold;
-            color: #007bff; /* Color for Week 1 label */
-            text-align: center;
-            margin-bottom: 10px; /* Reduced space between Week 1 and the table */
-        }
-
-        /* Simple table with black borders */
-        table {
-            width: 80%; /* Table width is now 80% of the body width */
-            margin: 20px auto; /* Center the table with some space between */
-            border-collapse: collapse;
-            background-color: white; /* Set table background to white */
-        }
-
-        th, td {
-            padding: 12px 16px;
-            text-align: left;
-            border: 1px solid black; /* Black borders for table cells */
-        }
-
-        /* Light Mint Green */
-        th {
-            background-color: #d1f8e0; /* Light mint green for table header */
-            color: #003b5c; /* Darker text for contrast */
-            font-weight: bold;
-        }
-
-        td {
-            background-color: #ffffff;
-        }
-
-        /* Responsive design: Adjust for smaller screens */
-        @media (max-width: 768px) {
-            .header-container {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            .header-image {
-                margin-bottom: 20px;
-            }
-
-            table {
-                width: 90%;
-            }
-
-            .week-label {
-                font-size: 28px; /* Reduce font size of Week 1 label on smaller screens */
-            }
-        }
-    </style>
+    <meta name="description" content="DSC 40A Course Information - UC San Diego">
+    <title>DSC 40A: Introduction to Data Science</title>
+    <!-- Add your CSS or link to external CSS -->
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-    <!-- Container for Image and Text -->
-    <div class="header-container">
-        <!-- Image -->
-        <img src="https://via.placeholder.com/150" alt="Placeholder Image" class="header-image">
-        
-        <!-- Text to the right of the image -->
-        <div class="header-text">
-            <h2>Course Information</h2>
-            <p><strong> CSE 20 Discrete Mathematics for CS</strong></p>
-            <p>Summer Session 2 2024</p>
+    <!-- Header Section -->
+    <header>
+        <h1>DSC 40A: Introduction to Data Science</h1>
+        <p>University of California, San Diego</p>
+    </header>
+
+    <!-- Staff Section -->
+    <section id="staff">
+        <h2>Course Staff</h2>
+
+        <!-- Staff Member 1 -->
+        <div class="staffer">
+            <img class="staffer-image" src="assets/staff-images/rod.jpg" alt="Rod Albuyeh" />
+            <div>
+                <h3 class="staffer-name">
+                    <a href="https://www.albellcloud.com" target="_blank">Rod Albuyeh</a>
+                </h3>
+                <p><b>Instructor</b></p>
+                <p>Email: <a href="mailto:ralbuyeh@ucsd.edu">ralbuyeh@ucsd.edu</a></p>
+                <p><b>Lecture:</b> M/W 8:00am-10:50am; RWAC 0115</p>
+                <p><b>Office Hours:</b> See Calendar tab; Zoom</p>
+            </div>
         </div>
-    </div>
 
-    <table>
-        <div class="week-label">Week 1</div>
-        <thead>
-            <tr>
-                <th>Date and Time</th>
-                <th>Activity</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Mon Aug 5</td>
-                <td>Lecture 1 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Tue Aug 6</td>
-                <td>Lecture 2 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Wed Aug 7</td>
-                <td>Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Thu Aug 8</td>
-                <td>Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-        </tbody>
-    </table>
-    <br>
-    <table>
-        <thead>
-            <tr>
-                <th>Date and Time</th>
-                <th>Activity</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Mon Aug 12</td>
-                <td>Lecture 1 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Tue Aug 13</td>
-                <td>Lecture 2 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Wed Aug 14</td>
-                <td>Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Thu Aug 15</td>
-                <td>Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-        </tbody>
-    </table>
+        <!-- Staff Member 2 -->
+        <div class="staffer">
+            <img class="staffer-image" src="assets/staff-images/new-staff-member.jpg" alt="New Staff Member" />
+            <div>
+                <h3 class="staffer-name">
+                    <a href="https://www.newstaff.com" target="_blank">New Staff Member</a>
+                </h3>
+                <p><b>Teaching Assistant</b></p>
+                <p>Email: <a href="mailto:newstaff@ucsd.edu">newstaff@ucsd.edu</a></p>
+                <p><b>Office Hours:</b> M/W 3:00pm-4:30pm; Zoom</p>
+            </div>
+        </div>
 
-    <br>
-    <table>
-        <thead>
-            <tr>
-                <th>Date and Time</th>
-                <th>Activity</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Mon Aug 19</td>
-                <td>Lecture 1 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Tue Aug 20</td>
-                <td>Lecture 2 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Wed Aug 21</td>
-                <td>Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Thu Aug 22</td>
-                <td>Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-        </tbody>
-    </table>
-    <br>
-        <tbody>
-            <tr>
-                <td>Mon Aug 26</td>
-                <td>Lecture 1 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Tue Aug 27</td>
-                <td>Lecture 2 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Wed Aug 28</td>
-                <td>Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-            <tr>
-                <td>Thu Aug 29</td>
-                <td>Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
-            </tr>
-        </tbody>
-    </table>
+        <!-- Additional Staff Members go here -->
+    </section>
 
-    
+    <!-- Calendar Section -->
+    <section id="calendar">
+        <h2>Course Calendar</h2>
+
+        <!-- Week 1 -->
+        <div class="module">
+            <h3 class="module-header" id="week-1">
+                <a href="#week-1" class="anchor-heading" aria-labelledby="week-1"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Week 1
+            </h3>
+            <dl class="module-days">
+                <dt class="module-day main">Mon Jul 3</dt>
+                <dd class="module-event main">
+                    <p><strong class="label label-lecture">MOD 1</strong> <a href="resources/lectures/module_1_learning_from_data.pdf">Learning from Data</a></p>
+                    <p><a href="resources/notes/notes_chapter_1.pdf#page=1">📖 pg 1-5</a></p>
+                </dd>
+            </dl>
+        </div>
+
+        <!-- Week 2 -->
+        <div class="module">
+            <h3 class="module-header" id="week-2">
+                <a href="#week-2" class="anchor-heading" aria-labelledby="week-2"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Week 2
+            </h3>
+            <dl class="module-days">
+                <dt class="module-day main">Mon Jul 10</dt>
+                <dd class="module-event main">
+                    <p><strong class="label label-lecture">MOD 2</strong> <a href="resources/lectures/module_2_statistics.pdf">Statistics Overview</a></p>
+                    <p><a href="resources/notes/notes_chapter_2.pdf#page=1">📖 pg 6-10</a></p>
+                </dd>
+                <dt class="module-day main">Wed Jul 12</dt>
+                <dd class="module-event main">
+                    <p><strong class="label label-hw">HW 1</strong> <a href="resources/homeworks/homework_1.pdf">Homework 1</a> due by midnight</p>
+                </dd>
+            </dl>
+        </div>
+
+        <!-- Week 3 -->
+        <div class="module">
+            <h3 class="module-header" id="week-3">
+                <a href="#week-3" class="anchor-heading" aria-labelledby="week-3"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Week 3
+            </h3>
+            <dl class="module-days">
+                <dt class="module-day main">Mon Jul 17</dt>
+                <dd class="module-event main">
+                    <p><strong class="label label-lecture">MOD 3</strong> <a href="resources/lectures/module_3_machine_learning.pdf">Introduction to Machine Learning</a></p>
+                </dd>
+                <dt class="module-day main">Wed Jul 19</dt>
+                <dd class="module-event main">
+                    <p><strong class="label label-hw">HW 2</strong> <a href="resources/homeworks/homework_2.pdf">Homework 2</a> due by midnight</p>
+                </dd>
+            </dl>
+        </div>
+
+        <!-- Additional Weeks and Modules can be added here -->
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="site-footer">
+        <p>This site uses <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+        <p>&copy; 2024 DSC 40A Course - UC San Diego</p>
+    </footer>
+
+    <!-- Optionally include JavaScript files -->
+    <script src="scripts.js"></script>
 </body>
 </html>
