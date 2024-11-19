@@ -43,7 +43,7 @@
             color: #333;
         }
 
-        /* Week 1 Label Styling */
+        /* Week 1 Label Styling (now directly above the table) */
         .week-label {
             font-size: 32px;
             font-weight: bold;
@@ -91,6 +91,10 @@
             table {
                 width: 90%;
             }
+
+            .week-label {
+                font-size: 28px; /* Reduce font size of Week 1 label on smaller screens */
+            }
         }
     </style>
 </head>
@@ -109,15 +113,15 @@
         </div>
     </div>
 
-    <!-- Week 1 Label above the table -->
+    <!-- Week 1 Label directly above the table (Centered) -->
     <div class="week-label">Week 1</div>
 
     <!-- Simple Table with Black Borders -->
     <table>
         <thead>
             <tr>
-                <th>Day & Date</th>
-                <th>Activities</th>
+                <th>Date and Time</th>
+                <th>Activity</th>
             </tr>
         </thead>
         <tbody>
