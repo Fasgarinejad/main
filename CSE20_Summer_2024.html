@@ -7,54 +7,54 @@
     <style>
         /* General container styling */
         .course-info {
-            font-family: Arial, sans-serif; /* Clean, modern font */
-            font-size: 24px; /* Larger text size for visibility */
-            line-height: 1.5; /* Improve line spacing */
-            text-align: center; /* Center align text */
-            max-width: 80%; /* Optional, limits the width */
-            margin: 0 auto; /* Center the container horizontally */
-            padding-top: 60px; /* Added more space at the top of the course-info container */
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            line-height: 1.5;
+            text-align: center;
+            max-width: 80%;
+            margin: 0 auto;
+            padding-top: 60px;
         }
 
         /* Styling for the image */
         .course-image {
-            width: 100%; /* Ensure it fits the container width */
-            max-width: 600px; /* Increase the size of the image */
-            margin: 0 auto 20px; /* Center the image horizontally and add space below it */
-            display: block; /* Ensures the image is treated as a block element for centering */
-            border-radius: 8px; /* Optional: Add rounded corners to the image */
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto 20px;
+            display: block;
+            border-radius: 8px;
         }
 
         /* Styling for the course name */
         .course-name {
-            font-weight: bold; /* Make the text bold */
-            color: #003b5c; /* UCSD Navy Blue */
-            transition: color 0.3s ease; /* Smooth transition for color change */
+            font-weight: bold;
+            color: #003b5c;
+            transition: color 0.3s ease;
         }
 
         /* Styling for the course session */
         .course-session {
-            font-weight: bold; /* Make the text bold */
-            color: #f7b731; /* UCSD Yellow */
-            transition: color 0.3s ease; /* Smooth transition for color change */
+            font-weight: bold;
+            color: #f7b731;
+            transition: color 0.3s ease;
         }
 
         .course-session:hover {
-            color: #003b5c; /* UCSD Navy Blue on hover */
+            color: #003b5c;
         }
 
         /* Body Styling */
         body {
             font-family: Arial, sans-serif;
-            background-color: #ffffff; /* Full white background */
+            background-color: #ffffff;
             margin: 0;
             padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            flex-direction: column; /* Added for vertical alignment */
-            padding-top: 40px; /* Add space at the top of the body */
+            flex-direction: column;
+            padding-top: 40px;
         }
 
         h1 {
@@ -69,7 +69,7 @@
             width: 80%;
             border-collapse: collapse;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            background-color: #ffffff; /* White background for the table */
+            background-color: #ffffff;
         }
 
         th, td {
@@ -80,8 +80,8 @@
 
         /* Light Mint Green */
         th {
-            background-color: #d1f8e0; /* Very light mint green for table header */
-            color: #003b5c; /* Darker text for contrast */
+            background-color: #d1f8e0;
+            color: #003b5c;
         }
 
         td {
@@ -134,13 +134,13 @@
     <div class="course-info">
         <span class="course-name">CSE 20 Discrete Mathematics for CS</span><br>
         <span class="course-session">Summer Session 2 2024</span>
-
-        <img src="staff.png" alt="Course Image" class="course-image">
     </div>
     
-    <h1>Week 1</h1> <!-- Added Week 1 heading -->
     <table>
         <thead>
+            <tr>
+                <th colspan="2" style="text-align: center;">Week 1</th> <!-- "Week 1" in the middle of the first row -->
+            </tr>
             <tr>
                 <th>Day & Date</th>
                 <th>Activities</th>
@@ -191,5 +191,6 @@
             </div>
         </a>
     </li>
+
 </body>
 </html>
