@@ -5,68 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weekly Schedule</title>
     <style>
-        /* General body and content styling */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #ffffff;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            height: 100vh;
-            flex-direction: column;
-            padding-top: 40px;
-        }
-
-        h1 {
-            font-size: 2em;
-            color: #003b5c;
-            margin-bottom: 20px;
-            font-weight: bold;
-        }
-
-        /* Tab navigation styling */
-        .tabs {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 20px;
-            background-color: #f1f1f1;
-            padding: 10px;
-        }
-
-        .tab-button {
-            padding: 10px 20px;
-            margin-right: 10px;
-            background-color: #d1f8e0; /* Mint Green */
-            border: 1px solid #ddd;
-            cursor: pointer;
-            font-weight: bold;
-            transition: background-color 0.3s;
-        }
-
-        .tab-button:hover {
-            background-color: #c1e8c4; /* Lighter mint green on hover */
-        }
-
-        .tab-button.active {
-            background-color: #b0e0b0; /* Active tab color */
-        }
-
-        /* Tab content styling */
-        .tab-content {
-            display: none;
-            padding: 20px;
-            width: 80%;
-            max-width: 1000px;
-            margin: 0 auto;
-            background-color: #ffffff;
-            border: 1px solid #ddd;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-
-        .tab-content.active {
-            display: block;
+        /* General container styling */
+        .course-info {
+            font-family: Arial, sans-serif; /* Clean, modern font */
+            font-size: 24px; /* Larger text size for visibility */
+            line-height: 1.5; /* Improve line spacing */
+            text-align: center; /* Center align text */
+            max-width: 80%; /* Optional, limits the width */
+            margin: 0 auto; /* Center the container horizontally */
+            padding-top: 60px; /* Added more space at the top of the course-info container */
         }
 
         /* Styling for the image */
@@ -78,12 +25,51 @@
             border-radius: 8px; /* Optional: Add rounded corners to the image */
         }
 
-        /* Styling for the table */
+        /* Styling for the course name */
+        .course-name {
+            font-weight: bold; /* Make the text bold */
+            color: #003b5c; /* UCSD Navy Blue */
+            transition: color 0.3s ease; /* Smooth transition for color change */
+        }
+
+        /* Styling for the course session */
+        .course-session {
+            font-weight: bold; /* Make the text bold */
+            color: #f7b731; /* UCSD Yellow */
+            transition: color 0.3s ease; /* Smooth transition for color change */
+        }
+
+        .course-session:hover {
+            color: #003b5c; /* UCSD Navy Blue on hover */
+        }
+
+        /* Body Styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff; /* Full white background */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column; /* Added for vertical alignment */
+            padding-top: 40px; /* Add space at the top of the body */
+        }
+
+        h1 {
+            font-size: 2em;
+            color: #007bff;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        /* Table Styling */
         table {
-            width: 100%;
+            width: 80%;
             border-collapse: collapse;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            background-color: #ffffff;
+            background-color: #ffffff; /* White background for the table */
         }
 
         th, td {
@@ -92,9 +78,10 @@
             border-bottom: 1px solid #ddd;
         }
 
+        /* Light Mint Green */
         th {
             background-color: #d1f8e0; /* Very light mint green for table header */
-            color: #003b5c;
+            color: #003b5c; /* Darker text for contrast */
         }
 
         td {
@@ -144,55 +131,65 @@
     </style>
 </head>
 <body>
+    <div class="course-info">
+        <span class="course-name">CSE 20 Discrete Mathematics for CS</span><br>
+        <span class="course-session">Summer Session 2 2024</span>
 
-    <h1>CSE 20 Discrete Mathematics for CS - Summer Session 2 2024</h1>
-
-    <!-- Tab Navigation -->
-    <div class="tabs">
-        <button class="tab-button active" onclick="openTab(event, 'tab1')">Image</button>
-        <button class="tab-button" onclick="openTab(event, 'tab2')">Schedule</button>
-    </div>
-
-    <!-- Tab Content -->
-
-    <!-- Image Tab -->
-    <div id="tab1" class="tab-content active">
         <img src="staff.png" alt="Course Image" class="course-image">
     </div>
+    
+    <h1>Week 1</h1> <!-- Added Week 1 heading -->
+    <table>
+        <thead>
+            <tr>
+                <th>Day & Date</th>
+                <th>Activities</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="day">Mon Aug 5</td>
+                <td>
+                    <div class="task">Lecture 1 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
+                    <div class="task">Exit Ticket 1</div>
+                    <div class="task highlight">SUR Beginning of Quarter Survey</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="day">Tue Aug 6</td>
+                <td>
+                    <div class="task">Lecture 2 UCSD Podcast |pg in Rosen's book ... | online assessments of Rosen ...</div>
+                    <div class="task">Exit Ticket 2</div>
+                    <div class="task highlight"><span>HW 1 release</span> Homework 1</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="day">Wed Aug 7</td>
+                <td>
+                    <div class="task">Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
+                    <div class="task">Exit Ticket 3</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="day">Thurs Aug 8</td>
+                <td>
+                    <div class="task">Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
+                    <div class="task">Exit Ticket 4</div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
-    <!-- Schedule Tab -->
-    <div id="tab2" class="tab-content">
-        <h2>Week 1</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Day & Date</th>
-                    <th>Activities</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td class="day">Mon Aug 5</td>
-                    <td>
-                        <div class="task">Lecture 1 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
-                        <div class="task">Exit Ticket 1</div>
-                        <div class="task highlight">SUR Beginning of Quarter Survey</div>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="day">Tue Aug 6</td>
-                    <td>
-                        <div class="task">Lecture 2 UCSD Podcast |pg in Rosen's book ... | online assessments of Rosen ...</div>
-                        <div class="task">Exit Ticket 2</div>
-                        <div class="task highlight"><span>HW 1 release</span> Homework 1</div>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="day">Wed Aug 7</td>
-                    <td>
-                        <div class="task">Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
-                        <div class="task">Exit Ticket 3</div>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="day">Thurs Aug 
+    <!-- Calendar Link -->
+    <li class="menu-item ic-app-header__menu-list-item">
+        <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+                <!-- SVG Icon here -->
+            </div>
+            <div class="menu-item__text">
+                Calendar
+            </div>
+        </a>
+    </li>
+</body>
+</html>
