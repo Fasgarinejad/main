@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Table Layout</title>
+    <title>Course Schedule</title>
     <style>
         /* General Body Styling */
         body {
@@ -11,7 +11,13 @@
             margin: 0;
             padding: 0;
             background-color: #f0f0f0;
-            position: relative; /* To position the table behind content */
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            flex-direction: column;
+            min-height: 100vh; /* Ensure full height of the page */
+            padding-top: 20px; /* Padding from the top */
         }
 
         /* Container for the image and text */
@@ -20,40 +26,41 @@
             align-items: center;
             justify-content: center;
             padding: 20px;
-            position: relative;
-            z-index: 2; /* Ensure the text and image are on top of the table */
+            width: 80%; /* Adjust width of the header */
+            margin-bottom: 30px; /* Space between the header and table */
         }
 
         /* Styling for the image */
         .header-image {
-            max-width: 200px;
-            max-height: 200px;
+            max-width: 150px;
+            max-height: 150px;
             margin-right: 20px;
         }
 
         /* Text next to the image */
         .header-text {
-            font-size: 24px;
+            font-size: 20px;
             color: #333;
         }
 
         /* Simple table with black borders */
         table {
-            width: 80%; /* Adjust width of the table */
-            margin: 40px auto; /* Center the table horizontally with margin at the top */
+            width: 60%; /* Table width is smaller */
+            margin: 0 auto; /* Center the table */
             border-collapse: collapse;
-            position: relative; /* Make sure the table is positioned normally */
-            z-index: 1; /* Ensure the table is below the image and text */
+            background-color: white;
         }
 
         th, td {
-            padding: 15px;
+            padding: 12px 16px;
             text-align: left;
             border: 1px solid black; /* Black borders for table cells */
         }
 
+        /* Light Mint Green */
         th {
-            background-color: #f2f2f2;
+            background-color: #d1f8e0; /* Light mint green for table header */
+            color: #003b5c; /* Darker text for contrast */
             font-weight: bold;
         }
 
@@ -61,7 +68,7 @@
             background-color: #ffffff;
         }
 
-        /* Week 1 specific styling (in the second row) */
+        /* Week 1 specific styling (in the left-most cell) */
         .week-cell {
             font-size: 24px;
             font-weight: bold;
@@ -69,6 +76,21 @@
             text-align: center;
         }
 
+        /* Responsive design: Adjust for smaller screens */
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .header-image {
+                margin-bottom: 20px;
+            }
+
+            table {
+                width: 90%;
+            }
+        }
     </style>
 </head>
 <body>
@@ -76,7 +98,7 @@
     <!-- Container for Image and Text -->
     <div class="header-container">
         <!-- Image -->
-        <img src="https://via.placeholder.com/200" alt="Placeholder Image" class="header-image">
+        <img src="https://via.placeholder.com/150" alt="Placeholder Image" class="header-image">
         
         <!-- Text to the right of the image -->
         <div class="header-text">
@@ -86,35 +108,31 @@
         </div>
     </div>
 
-    <!-- Simple Table with Black Borders -->
+    <!-- Simple Table with Black Borders and Week 1 -->
     <table>
         <thead>
             <tr>
+                <th class="week-cell" rowspan="2">Week 1</th> <!-- Week 1 moved to the left, spanning two rows -->
                 <th>Day & Date</th>
                 <th>Activities</th>
-                <th class="week-cell">Week 1</th> <!-- Week 1 placed in the second row, right-most cell -->
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Mon Aug 5</td>
-                <td>Lecture 1 | Exit Ticket 1</td>
-                <td></td> <!-- Empty cell for alignment -->
+                <td>Lecture 1 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
             </tr>
             <tr>
                 <td>Tue Aug 6</td>
-                <td>Lecture 2 | Exit Ticket 2</td>
-                <td></td> <!-- Empty cell for alignment -->
+                <td>Lecture 2 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
             </tr>
             <tr>
                 <td>Wed Aug 7</td>
-                <td>Lecture 3 | Exit Ticket 3</td>
-                <td></td> <!-- Empty cell for alignment -->
+                <td>Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
             </tr>
             <tr>
                 <td>Thu Aug 8</td>
-                <td>Lecture 4 | Exit Ticket 4</td>
-                <td></td> <!-- Empty cell for alignment -->
+                <td>Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</td>
             </tr>
         </tbody>
     </table>
