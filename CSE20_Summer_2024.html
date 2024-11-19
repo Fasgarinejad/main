@@ -1,1 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Schedule</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7fc;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            background-color: #ffffff;
+        }
+
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        td {
+            background-color: #fafafa;
+        }
+
+        td span {
+            font-weight: bold;
+            color: #0056b3;
+        }
+
+        .day {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .task {
+            font-size: 0.95em;
+            color: #555;
+        }
+
+        .emoji {
+            font-size: 1.2em;
+        }
+
+        .highlight {
+            font-size: 1em;
+            font-weight: bold;
+            color: #007bff;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        @media (max-width: 768px) {
+            table {
+                width: 100%;
+            }
+
+            th, td {
+                padding: 8px 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Day & Date</th>
+                <th>Activities</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="day">Mon Jul 3</td>
+                <td>
+                    <div class="task"><span>MOD 1</span> Learning from Data <span class="emoji">✏️ 📺📖</span> pg 1-5</div>
+                    <div class="task"><span>MOD 2</span> Minimizing Mean Absolute Error <span class="emoji">✏️📖</span> pg 5-9</div>
+                    <div class="task"><span>MOD 3</span> Mean Squared Error and Empirical Risk Minimization <span class="emoji">✏️📖</span> pg 9-12</div>
+                    <div class="task highlight">SUR Beginning of Quarter Survey</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="day">Tue Jul 4</td>
+                <td>
+                    <div class="task highlight"><span>HW 1</span> Homework 1</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="day">Wed Jul 5</td>
+                <td>
+                    <div class="task"><span>MOD 4</span> Center and Spread, Other Loss Functions <span class="emoji">✏️ 📺📖</span> 12-16 + 📖</div>
+                    <div class="task"><span>MOD 5</span> Gradient Descent <span class="emoji">✏️📖</span> 15-17</div>
+                    <div class="task"><span>MOD 6</span> Gradient Descent in Action <span class="emoji">✏️</span></div>
+                </td>
+            </tr>
+            <tr>
+                <td class="day">Fri Jul 7</td>
+                <td>
+                    <div class="task highlight"><span>GW 1</span> Groupwork 1 <span class="emoji">📺</span></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
 
