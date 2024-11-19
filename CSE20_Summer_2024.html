@@ -39,12 +39,11 @@
 
         /* Simple table with black borders */
         table {
-            width: 100%;
+            width: 80%; /* Adjust width of the table */
+            margin: 40px auto; /* Center the table horizontally with margin at the top */
             border-collapse: collapse;
-            position: absolute; /* Position the table behind */
-            top: 0;
-            left: 0;
-            z-index: 1; /* Place the table behind the content */
+            position: relative; /* Make sure the table is positioned normally */
+            z-index: 1; /* Ensure the table is below the image and text */
         }
 
         th, td {
@@ -60,6 +59,14 @@
 
         td {
             background-color: #ffffff;
+        }
+
+        /* Week 1 specific styling (in the second row) */
+        .week-cell {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff; /* Color for the Week 1 label */
+            text-align: center;
         }
 
     </style>
@@ -79,30 +86,35 @@
         </div>
     </div>
 
-    <!-- Simple Table with Black Borders (behind image and text) -->
+    <!-- Simple Table with Black Borders -->
     <table>
         <thead>
             <tr>
                 <th>Day & Date</th>
                 <th>Activities</th>
+                <th class="week-cell">Week 1</th> <!-- Week 1 placed in the second row, right-most cell -->
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Mon Aug 5</td>
                 <td>Lecture 1 | Exit Ticket 1</td>
+                <td></td> <!-- Empty cell for alignment -->
             </tr>
             <tr>
                 <td>Tue Aug 6</td>
                 <td>Lecture 2 | Exit Ticket 2</td>
+                <td></td> <!-- Empty cell for alignment -->
             </tr>
             <tr>
                 <td>Wed Aug 7</td>
                 <td>Lecture 3 | Exit Ticket 3</td>
+                <td></td> <!-- Empty cell for alignment -->
             </tr>
             <tr>
                 <td>Thu Aug 8</td>
                 <td>Lecture 4 | Exit Ticket 4</td>
+                <td></td> <!-- Empty cell for alignment -->
             </tr>
         </tbody>
     </table>
