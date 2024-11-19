@@ -6,51 +6,47 @@
     <title>Weekly Schedule</title>
     <style>
         /* General container styling */
+        .course-info {
+            font-family: Arial, sans-serif; /* Clean, modern font */
+            font-size: 24px; /* Larger text size for visibility */
+            line-height: 1.5; /* Improve line spacing */
+            text-align: center; /* Center align text */
+            max-width: 80%; /* Optional, limits the width */
+            margin: 0 auto; /* Center the container horizontally */
+            padding-top: 30px; /* Adds space at the top of the container */
+        }
 
+        /* Styling for the image */
+        .course-image {
+            width: 100%; /* Ensure it fits the container width */
+            max-width: 600px; /* Increase the size of the image */
+            margin: 0 auto 20px; /* Center the image horizontally and add space below it */
+            display: block; /* Ensures the image is treated as a block element for centering */
+            border-radius: 8px; /* Optional: Add rounded corners to the image */
+        }
 
-        /* General container styling */
-/* General container styling */
-.course-info {
-    font-family: Arial, sans-serif; /* Clean, modern font */
-    font-size: 24px; /* Larger text size for visibility */
-    line-height: 1.5; /* Improve line spacing */
-    text-align: center; /* Center align text */
-    max-width: 80%; /* Optional, limits the width */
-    margin: 0 auto; /* Center the container horizontally */
-    padding-top: 30px; /* Adds space at the top of the container */
-}
+        /* Styling for the course name */
+        .course-name {
+            font-weight: bold; /* Make the text bold */
+            color: #003b5c; /* UCSD Navy Blue */
+            transition: color 0.3s ease; /* Smooth transition for color change */
+        }
 
-/* Styling for the image */
-.course-image {
-    width: 100%; /* Ensure it fits the container width */
-    max-width: 400px; /* Limit image size to prevent it from being too large */
-    margin: 0 auto 20px; /* Center the image horizontally and add space below it */
-    display: block; /* Ensures the image is treated as a block element for centering */
-    border-radius: 8px; /* Optional: Add rounded corners to the image */
-}
+        /* Styling for the course session */
+        .course-session {
+            font-weight: bold; /* Make the text bold */
+            color: #f7b731; /* UCSD Yellow */
+            transition: color 0.3s ease; /* Smooth transition for color change */
+        }
 
-/* Styling for the course name */
-    .course-name {
-        font-weight: bold; /* Make the text bold */
-        color: #003b5c; /* UCSD Navy Blue */
-        transition: color 0.3s ease; /* Smooth transition for color change */
-    }
-    
-    /* Styling for the course session */
-    .course-session {
-        font-weight: bold; /* Make the text bold */
-        color: #f7b731; /* UCSD Yellow */
-        transition: color 0.3s ease; /* Smooth transition for color change */
-    }
-    
-    .course-session:hover {
-        color: #003b5c; /* UCSD Navy Blue on hover */
-    }
+        .course-session:hover {
+            color: #003b5c; /* UCSD Navy Blue on hover */
+        }
 
-
+        /* Body Styling */
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f7fc;
+            background-color: #ffffff; /* Full white background */
             margin: 0;
             padding: 0;
             display: flex;
@@ -67,11 +63,12 @@
             font-weight: bold;
         }
 
+        /* Table Styling */
         table {
             width: 80%;
             border-collapse: collapse;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            background-color: #ffffff;
+            background-color: #ffffff; /* White background for the table */
         }
 
         th, td {
@@ -119,6 +116,7 @@
             border-bottom: none;
         }
 
+        /* Responsive design */
         @media (max-width: 768px) {
             table {
                 width: 100%;
@@ -132,11 +130,10 @@
 </head>
 <body>
     <div class="course-info">
-    <span class="course-name">CSE 20 Discrete Mathematics for CS</span><br>
-    <span class="course-session">Summer Session 2 2024</span>
+        <span class="course-name">CSE 20 Discrete Mathematics for CS</span><br>
+        <span class="course-session">Summer Session 2 2024</span>
 
-    <img src="staff.png" alt="Course Image" class="course-image">
-
+        <img src="staff.png" alt="Course Image" class="course-image">
     </div>
     
     <h1>Week 1</h1> <!-- Added Week 1 heading -->
@@ -180,17 +177,17 @@
             </tr>
         </tbody>
     </table>
-    
-          <li class="menu-item ic-app-header__menu-list-item ">
-        <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
-          <div class="menu-item-icon-container" aria-hidden="true">
-            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
 
-          </div>
-          <div class="menu-item__text">
-            Calendar
-          </div>
+    <!-- Calendar Link -->
+    <li class="menu-item ic-app-header__menu-list-item">
+        <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+                <!-- SVG Icon here -->
+            </div>
+            <div class="menu-item__text">
+                Calendar
+            </div>
         </a>
-      </li>
+    </li>
 </body>
 </html>
