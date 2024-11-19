@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #ffffff; /* Set the background to white */
             position: relative;
             display: flex;
             justify-content: center;
@@ -43,12 +43,21 @@
             color: #333;
         }
 
+        /* Week 1 Label Styling */
+        .week-label {
+            font-size: 32px;
+            font-weight: bold;
+            color: #007bff; /* Color for Week 1 label */
+            text-align: center;
+            margin-bottom: 20px; /* Space between Week 1 and the table */
+        }
+
         /* Simple table with black borders */
         table {
             width: 60%; /* Table width is smaller */
             margin: 0 auto; /* Center the table */
             border-collapse: collapse;
-            background-color: white;
+            background-color: white; /* Set table background to white */
         }
 
         th, td {
@@ -66,14 +75,6 @@
 
         td {
             background-color: #ffffff;
-        }
-
-        /* Week 1 specific styling (in the left-most cell) */
-        .week-cell {
-            font-size: 24px;
-            font-weight: bold;
-            color: #007bff; /* Color for the Week 1 label */
-            text-align: center;
         }
 
         /* Responsive design: Adjust for smaller screens */
@@ -103,16 +104,18 @@
         <!-- Text to the right of the image -->
         <div class="header-text">
             <h2>Course Information</h2>
-            <p><strong>CSE 20 Discrete Mathematics for CS</strong></p>
-            <p><strong>Summer Session 2 2024</strong></p>
+            <p><strong>Course Name:</strong> CSE 20 Discrete Mathematics for CS</p>
+            <p><strong>Session:</strong> Summer Session 2 2024</p>
         </div>
     </div>
 
-    <!-- Simple Table with Black Borders and Week 1 -->
+    <!-- Week 1 Label above the table -->
+    <div class="week-label">Week 1</div>
+
+    <!-- Simple Table with Black Borders -->
     <table>
         <thead>
             <tr>
-                <th class="week-cell" rowspan="2">Week 1</th> <!-- Week 1 moved to the left, spanning two rows -->
                 <th>Day & Date</th>
                 <th>Activities</th>
             </tr>
