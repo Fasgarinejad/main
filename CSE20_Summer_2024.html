@@ -162,11 +162,11 @@
 
     <!-- Schedule Tab -->
     <div id="tab2" class="tab-content">
-        <h2>Weekly Schedule</h2>
+        <h2>Week 1</h2>
         <table>
             <thead>
                 <tr>
-                    <th>Week 1</th> <!-- Week 1 is now in the table itself -->
+                    <th>Day & Date</th>
                     <th>Activities</th>
                 </tr>
             </thead>
@@ -195,50 +195,4 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="day">Thurs Aug 8</td>
-                    <td>
-                        <div class="task">Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
-                        <div class="task">Exit Ticket 4</div>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-
-    <!-- Calendar Link -->
-    <li class="menu-item ic-app-header__menu-list-item">
-        <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
-            <div class="menu-item-icon-container" aria-hidden="true">
-                <!-- SVG Icon here -->
-            </div>
-            <div class="menu-item__text">
-                Calendar
-            </div>
-        </a>
-    </li>
-
-    <script>
-        // Function to switch between tabs
-        function openTab(evt, tabName) {
-            var i, tabcontent, tabbuttons;
-            tabcontent = document.getElementsByClassName("tab-content");
-            tabbuttons = document.getElementsByClassName("tab-button");
-
-            // Hide all tab content
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].classList.remove("active");
-            }
-
-            // Remove "active" class from all buttons
-            for (i = 0; i < tabbuttons.length; i++) {
-                tabbuttons[i].classList.remove("active");
-            }
-
-            // Show the clicked tab and add "active" class to the clicked button
-            document.getElementById(tabName).classList.add("active");
-            evt.currentTarget.classList.add("active");
-        }
-    </script>
-
-</body>
-</html>
+                    <td class="day">Thurs Aug 
