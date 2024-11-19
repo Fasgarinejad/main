@@ -121,11 +121,19 @@
         /* Calendar styling */
         .calendar-container {
             width: 80%;
-            border: 1px solid #ddd;  /* Light gray border */
-            background-color: #fafafa; /* Matching background color */
+            border: 1px solid #ddd;
+            background-color: #fafafa;
             padding: 20px;
-            margin-top: 40px;  /* Adds space between the table and the calendar */
-            border-radius: 8px;  /* Optional rounded corners */
+            margin-top: 40px;
+            border-radius: 8px;
+        }
+
+        /* Week 1 Styling */
+        .week-cell {
+            font-size: 2em;
+            color: #ff5733; /* Week 1 color */
+            font-weight: bold;
+            text-align: right; /* Align "Week 1" to the right */
         }
 
         /* Responsive design */
@@ -145,15 +153,14 @@
         <span class="course-name">CSE 20 Discrete Mathematics for CS</span><br>
         <span class="course-session">Summer Session 2 2024</span>
     </div>
-    
+
+    <!-- Table with Week 1 in the second row (right-most column) -->
     <table>
         <thead>
             <tr>
-                <th colspan="2" style="text-align: center;">Week 1</th>
-            </tr>
-            <tr>
                 <th>Day & Date</th>
                 <th>Activities</th>
+                <th class="week-cell">Week 1</th> <!-- Week 1 in the third column -->
             </tr>
         </thead>
         <tbody>
@@ -164,6 +171,7 @@
                     <div class="task">Exit Ticket 1</div>
                     <div class="task highlight">SUR Beginning of Quarter Survey</div>
                 </td>
+                <td></td> <!-- Empty cell for Week 1 in the first row -->
             </tr>
             <tr>
                 <td class="day">Tue Aug 6</td>
@@ -172,6 +180,7 @@
                     <div class="task">Exit Ticket 2</div>
                     <div class="task highlight"><span>HW 1 release</span> Homework 1</div>
                 </td>
+                <td></td> <!-- Empty cell for Week 1 in the second row -->
             </tr>
             <tr>
                 <td class="day">Wed Aug 7</td>
@@ -179,6 +188,7 @@
                     <div class="task">Lecture 3 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
                     <div class="task">Exit Ticket 3</div>
                 </td>
+                <td></td> <!-- Empty cell for Week 1 in the third row -->
             </tr>
             <tr>
                 <td class="day">Thurs Aug 8</td>
@@ -186,6 +196,7 @@
                     <div class="task">Lecture 4 UCSD Podcast | pg in Rosen's book ... | online assessments of Rosen ...</div>
                     <div class="task">Exit Ticket 4</div>
                 </td>
+                <td></td> <!-- Empty cell for Week 1 in the fourth row -->
             </tr>
         </tbody>
     </table>
@@ -198,6 +209,5 @@
             <iframe src="https://calendar.google.com/calendar/embed?src=your_calendar_link" style="border: 0; width: 100%; height: 400px;"></iframe>
         </div>
     </div>
-
 </body>
 </html>
