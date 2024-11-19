@@ -9,51 +9,43 @@
 
 
         /* General container styling */
-        .course-info {
-            font-family: Arial, sans-serif; /* Clean, modern font */
-            font-size: 24px; /* Larger text size for visibility */
-            line-height: 1.5; /* Improve line spacing */
-            text-align: center; /* Center align text */
-            max-width: 80%; /* Optional, limits the width */
-            margin: 0 auto; /* Center the container horizontally */
-            padding-top: 30px; /* Adds space at the top of the container */
-        }
-        
-        /* Styling for the image */
-        .course-image {
-            width: 100%; /* Ensure it fits the container width */
-            max-width: 400px; /* Limit image size to prevent it from being too large */
-            margin: 0 auto 20px; /* Center the image horizontally and add space below it */
-            display: block; /* Ensures the image is treated as a block element for centering */
-            border-radius: 8px; /* Optional: Add rounded corners to the image */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow to the image */
-        }
-        
-        /* Styling for the course name */
-        .course-name {
-            font-weight: bold; /* Make the text bold */
-            color: #003b5c; /* UCSD Navy Blue */
-            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3), 0px 0px 25px rgba(0, 59, 92, 0.5); /* Text shadow for depth */
-            transition: color 0.3s ease, text-shadow 0.3s ease; /* Smooth transition for hover effects */
-        }
-        
-        .course-name:hover {
-            color: #f7b731; /* UCSD Yellow on hover */
-            text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5), 0px 0px 30px rgba(0, 59, 92, 0.7); /* Glowing effect on hover */
-        }
-        
-        /* Styling for the course session */
-        .course-session {
-            font-weight: bold; /* Make the text bold */
-            color: #f7b731; /* UCSD Yellow */
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2), 0px 0px 15px rgba(247, 183, 49, 0.4); /* Soft shadow effect */
-            transition: color 0.3s ease, text-shadow 0.3s ease; /* Smooth transition for hover effects */
-        }
-        
-        .course-session:hover {
-            color: #003b5c; /* UCSD Navy Blue on hover */
-            text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4), 0px 0px 20px rgba(3, 59, 92, 0.6); /* Glowing effect on hover */
-        }
+/* General container styling */
+.course-info {
+    font-family: Arial, sans-serif; /* Clean, modern font */
+    font-size: 24px; /* Larger text size for visibility */
+    line-height: 1.5; /* Improve line spacing */
+    text-align: center; /* Center align text */
+    max-width: 80%; /* Optional, limits the width */
+    margin: 0 auto; /* Center the container horizontally */
+    padding-top: 30px; /* Adds space at the top of the container */
+}
+
+/* Styling for the image */
+.course-image {
+    width: 100%; /* Ensure it fits the container width */
+    max-width: 400px; /* Limit image size to prevent it from being too large */
+    margin: 0 auto 20px; /* Center the image horizontally and add space below it */
+    display: block; /* Ensures the image is treated as a block element for centering */
+    border-radius: 8px; /* Optional: Add rounded corners to the image */
+}
+
+/* Styling for the course name */
+    .course-name {
+        font-weight: bold; /* Make the text bold */
+        color: #003b5c; /* UCSD Navy Blue */
+        transition: color 0.3s ease; /* Smooth transition for color change */
+    }
+    
+    /* Styling for the course session */
+    .course-session {
+        font-weight: bold; /* Make the text bold */
+        color: #f7b731; /* UCSD Yellow */
+        transition: color 0.3s ease; /* Smooth transition for color change */
+    }
+    
+    .course-session:hover {
+        color: #003b5c; /* UCSD Navy Blue on hover */
+    }
 
 
         body {
