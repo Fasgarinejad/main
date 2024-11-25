@@ -284,7 +284,7 @@
             <li>EMBC, 2020 <a href="https://drive.google.com/file/d/1G-7ESC-DQj2xH6xuVQStgZYvNy5kauNS/view?usp=sharing">slides</a> | <a href="https://www.youtube.com/watch?v=ch0Mm9_5cPw">presentation</a></li>
             </ul>
 
-            <!-- Diversity, Inclusion & Mentorship -->
+            <!-- Diversity, Equity, Inclusion & Mentorship -->
             <h3 class="section-heading">Diversity, Inclusion & Mentorship</h3>
             <ul>
                 <li>Women In Computing Mentorship Program (at UC San Diego), Sep 2024-present</li>
