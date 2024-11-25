@@ -271,14 +271,14 @@
 
         <!--Talks -->
         <h3 class="section-heading">Talks</h3>
-        <h3 class="section-heading">Invited Talks</h3>
+        <h4>Invited Talks</h4>
         <ul>
             <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
             <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
             <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
 
         <!-- Conference Talks -->
-        <h3>Conference Talks</h3>
+        <p>Conference Talks</p>
         <ul>
         <li>ICCAD, 2024 <a href="https://drive.google.com/file/d/1aoMJYb87zvwgYjKihUkDwLyLlLSKWa-a/view?usp=sharing">slides</a></li>
         <li>ASP-DAC, 2024 <a href="https://drive.google.com/file/d/1UA5_tglLJhhkm3kLhmsZYRfLL5nprNRq/view?usp=sharing">slides</a></li>
