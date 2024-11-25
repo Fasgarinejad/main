@@ -270,6 +270,7 @@
             </ul>
 
         <!--Talks -->
+        <h3 class="section-heading">Talks</h3>
         <h3 class="section-heading">Invited Talks</h3>
         <ul>
             <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
