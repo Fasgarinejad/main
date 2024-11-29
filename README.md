@@ -20,6 +20,10 @@
     box-shadow: 2px 2px 6px rgba(0, 198, 215, 0.1); /* Soft, less intense cyan shadow */
 }
 
+.anchor {
+    display: block !important;
+}
+
 .slide-link:hover {
     background: linear-gradient(135deg, rgba(243, 229, 0, 0.7) 30%, rgba(0, 198, 215, 0.7) 80%); /* Darker on hover */
     box-shadow: 2px 2px 8px rgba(0, 198, 215, 0.2); /* Slightly darker shadow on hover */
@@ -148,9 +152,7 @@
         .links a:hover {
             color: #0056b3; /* Darker shade on hover */
         }
-        .anchor {
-            display: none !important;
-        }
+
     </style>
 </head>
 <body>
