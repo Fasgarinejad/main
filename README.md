@@ -200,7 +200,7 @@
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
-                        <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023)</li>
+                        <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023, Winter 2025)</li>
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
