@@ -156,7 +156,7 @@
 <body>
     <div class="container">
         <div class="column left-column">
-<img src="IMG_0739.JPG" alt="Fatemeh Asgarinejad">
+<img src="IMG_0739.JPG">
 <div class="links">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/fatemeh-asgarinejad/" title="LinkedIn">
