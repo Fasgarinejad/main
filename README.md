@@ -185,7 +185,7 @@
         </div> 
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad, a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of <a href="https://cseweb.ucsd.edu/~trosing/">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Prof. Baris Aksanli</a>. You can find my candidacy presentation slides from <a href="https://drive.google.com/file/d/114Abv7Jxh7koSGvKCaKKqCUU96pKq_Qa/view?usp=sharing">here</a>.<br>
-<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">Here's</a> a sample teaching (Statistics - Hypothesis Testing) [<a href="https://docs.google.com/presentation/d/1eaFtTBAvuspguhvmfcqpBJ71v9pV8-u5/edit?usp=sharing&ouid=100875362658936450251&rtpof=true&sd=true">slides</a>]
+ Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">Video</a>] [<a href="https://docs.google.com/presentation/d/1eaFtTBAvuspguhvmfcqpBJ71v9pV8-u5/edit?usp=sharing&ouid=100875362658936450251&rtpof=true&sd=true">slides</a>] 
 </p>
             <div class="violet-box">
                 I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
@@ -238,7 +238,7 @@
             <ul>
                 <li><strong>F. Asgarinejad</strong>, F. Ponzina, O. Gungor, T. Rosing, B. Aksanli, “HDXpose: Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, ICCAD, 2024. [<a href="https://drive.google.com/file/d/1aoMJYb87zvwgYjKihUkDwLyLlLSKWa-a/view?usp=sharing">slides</a>]</li>
                 <li><strong>F. Asgarinejad</strong>, F. Asgarinejad, J. Morris, T. Rosing, B. Aksanli, <a href="https://dl.acm.org/doi/abs/10.1145/3665314.3670852">VisionHD: Revisiting Hyperdimensional Computing for Improved Image Classification</a>, ISLPED, 2024.</li>
-                <li>M. Gaddi, <strong>F. Asgarinejad</strong>, F. Ponzina, B. Aksanli, T. Rosing, “HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</li>
+                <li>M. Gaddi, F. Ponzina, <strong>F. Asgarinejad</strong>, B. Aksanli, T. Rosing, “HyperECG: ECG Signal Inference from Radar with Hyperdimensional Computing”, BIBE, 2024.</li>
                 <li><strong>F. Asgarinejad</strong>, J. Morris, T. Rosing, B. Aksanli, <a href="https://ieeexplore.ieee.org/abstract/document/10473862">PIONEER: Towards Highly Efficient and Accurate Hyperdimensional Computing using Learned Projection</a>, ASP-DAC, 2024. [<a href="https://drive.google.com/file/d/1UA5_tglLJhhkm3kLhmsZYRfLL5nprNRq/view?usp=sharing">slides</a>]</li>
                 <li><strong>F. Asgarinejad</strong>, A. Thomas, R. Hildebrant, Z Zhang, S. Ren. Rosing, B. Aksanli <a href="https://www.mdpi.com/2078-2489/15/8/490">Optimized Early Prediction of Business Processes with Hyperdimensional Computing</a>, MDPI Information, 2024.</li>
                 <li><strong>F. Asgarinejad</strong>, X. Yu, D. Jiang, J. Morris, T. Rosing, B. Aksanli, <a href="https://www.mdpi.com/1424-8220/24/3/1014">Enhanced Noise-Resilient Pressure Mat System Based on Hyperdimensional Computing</a>, MDPI Sensors, 2024.</li>
