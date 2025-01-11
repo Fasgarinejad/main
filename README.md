@@ -197,7 +197,7 @@
             <ul>
                 <li><strong>Instructor</strong>, Computer Science and Engineering
                     <ul>
-                        <li><a href="CSE20_Summer_2024.html" class="v-box"><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024)</a>  <a href="https://drive.google.com/file/d/1Yzy4-iHp96C7favBsJTGUqoWxng73ERH/view?usp=sharing" target="_blank" style="margin-left: 10px;">Course Syllabus</a></li>
+                        <li><a href="CSE20_Summer_2024.html" class="v-box"><strong>CSE 20:</strong> Discrete Mathematics (Summer 2024)</a>  <a href="https://drive.google.com/file/d/1BRmIGQutY4DPvpvFwI-xlrVUsYrCOxp1/view?usp=sharing" target="_blank" style="margin-left: 10px;">Course Syllabus</a></li>
                         </ul>
                 </li>
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
