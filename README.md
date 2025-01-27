@@ -185,7 +185,7 @@
         </div> 
         <div class="column right-column">
             <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad, a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of <a href="https://cseweb.ucsd.edu/~trosing/">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Prof. Baris Aksanli</a>. You can find my candidacy presentation slides from <a href="https://drive.google.com/file/d/114Abv7Jxh7koSGvKCaKKqCUU96pKq_Qa/view?usp=sharing">here</a>.<br>
- Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://docs.google.com/presentation/d/1eaFtTBAvuspguhvmfcqpBJ71v9pV8-u5/edit?usp=sharing&ouid=100875362658936450251&rtpof=true&sd=true">slides</a>] 
+ Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://drive.google.com/file/d/1aFNGfm4ebCrcbrD8ZCvJMOYANDoJ-V0b/view?usp=sharing">slides</a>] 
 </p>
             <div class="violet-box">
                 I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
