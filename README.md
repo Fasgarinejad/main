@@ -159,14 +159,6 @@
     <div class="container">
         <div class="column left-column">
             <img src="IMG_0739.JPG" alt="Profile Image">
-<!--             <!-- "My Notes / Lectures" Button -->
-            <button class="collapsible">My Notes / Lectures</button>
-            <div class="content">
-                <a href="#category1">Category 1: Math Notes</a>
-                <a href="#category2">Category 2: CS Lectures</a>
-                <a href="#category3">Category 3: ML Notes</a>
-            </div> -->
-            
 <div class="links">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/fatemeh-asgarinejad/" title="LinkedIn">
