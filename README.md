@@ -272,7 +272,12 @@
                 <li>Ranked 20th (top 0.1%) in Iran’s national university entrance exam for M.Sc. in Computer Science</li>
                 <li>Ranked top 0.4% in Iran’s national university entrance exam for M.Sc. in Computer Engineering</li>
             </ul>
-
+        <!-- Service -->
+        <h3 class="section-heading">Professional Service</h3>
+        <ul>
+            <li>Reviewer for ACM Computing Surveys</li>
+            <li>Student Activities Chair for IEEE San Diego Section</li>
+        </ul>
         <!--Talks -->
         <h3 class="section-heading">Talks</h3>
         <h4>Invited Talks</h4>
@@ -298,11 +303,6 @@
                 <li>HKN (Eta Kappa Nu) Honor Society of UC San Diego Outreach Program for middle-school and High-school students, May 2022-present</li>
             </ul>
 
-            <!-- Service -->
-            <h3 class="section-heading">Professional Service</h3>
-            <ul>
-                <li>Reviewer for ACM Computing Surveys</li>
-            </ul>
         </div>
     </div>
     <h5>COPYRIGHT @ Fatemeh Asgarinejad  -- San Diego, ❤️🇺🇸❤️</h5>
