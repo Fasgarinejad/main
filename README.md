@@ -232,6 +232,7 @@
             <ul>
             <li><strong>UC San Diego Student-Centered College Teaching & Course Design Certificate</strong></li>
             <li><strong>Leadership in Teaching: Graduate Peer Review of Instruction Program Certificate</strong></li>
+            <li><strong>Leadership in Teaching: Graduate Peer Review of Instruction Program Certificate</strong></li>
             </ul>
 
             <!-- Publications -->
@@ -258,6 +259,8 @@
                 <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
                 <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
                 <li>A.J. Olivares, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
+                <li>Amir Kiadi, B.Sc. student in Computer Science, Project: LLM on Edge.</li>
+
                 <li>Lilianne Montehermoso, High School student, PRISM Center Research Program, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
             </ul>
 
