@@ -190,7 +190,6 @@
 </p>
             <div class="violet-box">
             News: 
-            <!-- I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.-->
             </div>
             <h3 class="section-heading">Teaching</h3>
 
