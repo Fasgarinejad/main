@@ -189,8 +189,9 @@
  Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://drive.google.com/file/d/1aFNGfm4ebCrcbrD8ZCvJMOYANDoJ-V0b/view?usp=sharing">slides</a>] 
 </p>
             <div class="violet-box">
-                I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
-            </div>
+                News:
+<!--                 I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.
+            </div> -->
             <h3 class="section-heading">Teaching</h3>
 
             <!-- University of California, San Diego -->
