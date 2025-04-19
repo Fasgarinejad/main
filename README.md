@@ -191,7 +191,7 @@
             <div class="violet-box">
             News: 
             <!-- I am currently on the academic job market for faculty positions with a focus on <strong>teaching</strong>.-->
-            </div> -->
+            </div>
             <h3 class="section-heading">Teaching</h3>
 
             <!-- University of California, San Diego -->
