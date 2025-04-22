@@ -285,6 +285,13 @@
         <h3 class="section-heading">Talks</h3>
         <h4>Invited Talks</h4>
         <ul>
+            <li>University of California Riverside, ECE</li>
+            <li>Purdue University, CS</li>
+            <li>California State University Long Beach, CECS</li>
+            <li>University of Texas Austin, CS</li>
+            <li>University of TexasA&M, CSE</li>
+            <li>Chapman University, CS</li>
+            <li>NorthWestern University, Statistics and Data Science</li>
             <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
             <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
             <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
