@@ -289,7 +289,7 @@
             <li>Purdue University, CS</li>
             <li>California State University Long Beach, CECS</li>
             <li>University of Texas Austin, CS</li>
-            <li>University of TexasA&M, CSE</li>
+            <li>University of Texas A&M, CSE</li>
             <li>Chapman University, CS</li>
             <li>NorthWestern University, Statistics and Data Science</li>
             <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
