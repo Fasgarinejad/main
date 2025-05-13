@@ -189,7 +189,8 @@
  Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://drive.google.com/file/d/1aFNGfm4ebCrcbrD8ZCvJMOYANDoJ-V0b/view?usp=sharing">slides</a>] 
 </p>
             <div class="violet-box">
-                News: ....
+                News: 
+                April 2025: I won the UCSD 2025 Saltman Excellent Teaching Award! 
             </div>
             <h3 class="section-heading">Teaching</h3>
 
@@ -267,6 +268,7 @@
             <!-- Awards -->
             <h3 class="section-heading">Awards</h3>
             <ul>
+                <li><strong>UCSD 2025 Saltman Excellent Teaching Award</strong></li>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
                 <li>DAC Young Fellow at the 61st Design Automation Conference in San Francisco, 2024</li>
                 <li>SRC Research Scholar and awarded funding for conference participation, 2024</li>
