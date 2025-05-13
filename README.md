@@ -189,8 +189,8 @@
  Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://drive.google.com/file/d/1aFNGfm4ebCrcbrD8ZCvJMOYANDoJ-V0b/view?usp=sharing">slides</a>] 
 </p>
             <div class="violet-box">
-                News: 
-                April 2025: I won the UCSD 2025 Saltman Excellent Teaching Award! 
+                News: <br>
+                April 2025: I won the <strong>UCSD 2025 Saltman Excellent Teaching Award</strong>! 
             </div>
             <h3 class="section-heading">Teaching</h3>
 
