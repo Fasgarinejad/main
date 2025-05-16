@@ -205,7 +205,7 @@
                 <li><strong>Teaching Assistant, Computer Science and Engineering</strong>
                     <ul>
                         <li><strong>CSE 101:</strong> Design and Analysis of Algorithms (Summer 2023)</li>
-                        <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023, Winter 2025)</li>
+                        <li><strong>CSE 20:</strong> Discrete Mathematics (Spring 2021, Spring 2022, Summer 2022, Spring 2023, Winter 2023, Winter 2025, Spring 2025)</li>
                         <li><strong>CSE 21:</strong> Mathematics for Algorithms and Systems Analysis (Winter, Spring, and Fall 2024)</li>
                     </ul>
                 </li>
@@ -251,17 +251,17 @@
                 <li>R. Garcia, <strong>F. Asgarinejad</strong>, B. Khaleghi, T. Rosing, M. Imani <a href="https://ieeexplore.ieee.org/abstract/document/9474239">TruLook: A Framework for Configurable GPU Approximation</a>, DATE, 2021.</li>
                 <li><strong>F. Asgarinejad</strong>, A. Thomas, T. Rosing, <a href="https://ieeexplore.ieee.org/abstract/document/9175328">Detection of Epileptic Seizures from Surface EEG using Hyperdimensional Computing</a>, EMBC, 2020. <a href="https://drive.google.com/file/d/1G-7ESC-DQj2xH6xuVQStgZYvNy5kauNS/view?usp=sharing">slides</a>, <a href="https://www.youtube.com/watch?v=ch0Mm9_5cPw">presentation</a></li>
                 <li>B. Khaleghi, S. Salamat, A. Thomas, <strong>F. Asgarinejad</strong>, Y. Kim, T. Rosing, <a href="https://dl.acm.org/doi/abs/10.1145/3370748.3406587">SHEARer Highly-Efficient Hyperdimensional Computing by Software-Hardware Enabled Multifold Approximation</a>, ISLPED, 2020.</li>
-                <li>J. Yang, A.J. Olivares, <strong>F. Asgarinejad</strong>, F. Ponzina, T. Rosing, B. Aksanli,Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques, under preparation.</li>
+                <li>J. Yang, <strong>F. Asgarinejad</strong>, E. Zhao, F. Ponzina, T. Rosing, B. Aksanli,Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques, under preparation.</li>
             </ul>
 
             <!-- Mentorship -->
             <h3 class="section-heading">Mentorship</h3>
             <ul>
-                <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
-                <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing.</li>
-                <li>A.J. Olivares, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing.</li>
-                <li>Amir Kiadi, B.Sc. student in Computer Science, Project: LLM on Edge.</li>
-
+                <li>Jiaying Yang, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing. Summer 2024-present</li>
+                <li>Matilda Gaddi, B.Sc. student in Data Science, Project: ECG Signal Inference from Radar with Hyperdimensional Computing. Summer 2023-present</li>
+                <li>A.J. Olivares, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing. Summer 2024</li>
+                <li>Amir Kiadi, B.Sc. student in Computer Science, Project: LLM on Edge. Fall 2025-present</li>
+                <li>Ava Emami, B.Sc. student in Computer Science, Project: Defense mechanisms using HDC. Spring 2025-present</li>
                 <li>Lilianne Montehermoso, High School student, PRISM Center Research Program, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
             </ul>
 
@@ -270,7 +270,7 @@
             <ul>
                 <li><strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong></li>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
-                <li>DAC Young Fellow at the 61st Design Automation Conference in San Francisco, 2024</li>
+                <li>DAC Young Fellow at the 61st and 62nd Design Automation Conference in San Francisco, 2024, 2025</li>
                 <li>SRC Research Scholar and awarded funding for conference participation, 2024</li>
                 <li>UCSD travel grant, 2024</li>
                 <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
@@ -287,14 +287,15 @@
         <h3 class="section-heading">Talks</h3>
         <h4>Invited Talks</h4>
         <ul>
-            <li>University of California Riverside, ECE</li>
-            <li>Purdue University, CS</li>
-            <li>California State University Long Beach, CECS</li>
-            <li>University of Texas Austin, CS</li>
-            <li>University of Texas A&M, CSE</li>
-            <li>Chapman University, CS</li>
-            <li>NorthWestern University, Statistics and Data Science</li>
-            <li>PRISM Center Annual Review, UC San Diego, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
+            <li>TECHCON, Research Scholar and Presenter, Sep 2025</li>
+            <li>University of California Riverside, ECE, Logic Opmitization and Multi-Level Minimization, Winter 2025</li>
+            <li>Purdue University, CS, Induction and Recursion, Winter 2025</li>
+            <li>California State University Long Beach, CECS, Towards Efficient Learning at the Edge by Hyperdimensional Computing, Winter 2025</li>
+            <li>University of Texas Austin, CS, Clustering: K-Means, Winter 2025</li>
+            <li>University of Texas A&M, CSE, Sorting Algorithms: Merge Sort, Winter 2025</li>
+            <li>Chapman University, CS, Simple and Multiple Linear Regression, Winter 2025</li>
+            <li>NorthWestern University, Statistics and Data Science, Introduction to Hypothesis Testing and its Application in Real-Life and Data Science</li>
+            <li>PRISM Center Annual Review, UC San Diego, Panelist, “PRISM Center Summer Virtual High School Program”, Nov 2024</li>
             <li>TECHCON, “Harnessing Hyperdimensional Computing’s Explainability for Adversarial Attacks”, Sep 2024</li>
             <li>Colegio San Agustin-Bacolod University’s 60th Founding Anniversary Research Conference, “Applying Machine Learning and Brain-Inspired Computing for Innovative Problem Solving”, July 2023</li>
         </ul>
@@ -312,7 +313,7 @@
                 <li>Research Mentor (at UC San Diego, SEElab), August 2023-present</li>
                 <li>Research Mentor (at UC San Diego, PRISM Center), Virtual High School Research Program for high school students, Summer 2024</li>
                 <li>Python Summer School Mentor (at Sharif University of Technology, under supervision of Prof. Ali Sharifi-Zarchi), Summer 2023</li>
-                <li>HKN (Eta Kappa Nu) Honor Society of UC San Diego Outreach Program for middle-school and High-school students, May 2022-present</li>
+                <li>HKN (Eta Kappa Nu) Honor Society of UC San Diego Outreach Program for middle-school and High-school students, May 2022-</li>
             </ul>
 
         </div>
