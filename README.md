@@ -262,16 +262,16 @@
                 <li>A.J. Olivares, B.Sc. student in Computer Science, Project: Addressing Catastrophic Forgetting in Neural Networks using Hyperdimensional Computing. Summer 2024</li>
                 <li>Amir Kiadi, B.Sc. student in Computer Science, Project: LLM on Edge. Fall 2025-present</li>
                 <li>Ava Emami, B.Sc. student in Computer Science, Project: Defense mechanisms using HDC. Spring 2025-present</li>
-                <li>Lilianne Montehermoso, High School student, PRISM Center Research Program, Project: Analyzing Adversarial Attacks in Machine Learning.</li>
+                <li>Lilianne Montehermoso, High School student, PRISM Center Research Program, Project: Analyzing Adversarial Attacks in Machine Learning. Summer 2024-Spring 2025</li>
             </ul>
 
             <!-- Awards -->
-            <h3 class="section-heading">Awards</h3>
+            <h3 class="section-heading">Awards and Honors</h3>
             <ul>
                 <li><strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong></li>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
                 <li>DAC Young Fellow at the 61st and 62nd Design Automation Conference in San Francisco, 2024, 2025</li>
-                <li>SRC Research Scholar and awarded funding for conference participation, 2024</li>
+                <li>SRC Research Scholar and awarded funding for conference participation, 2024, 2025</li>
                 <li>UCSD travel grant, 2024</li>
                 <li>Member of HKN (Eta Kappa Nu) Honor Society of UC San Diego since May 2022</li>
                 <li>Ranked 20th (top 0.1%) in Iran’s national university entrance exam for M.Sc. in Computer Science</li>
