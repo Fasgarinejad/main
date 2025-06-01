@@ -196,7 +196,6 @@
                   <span style="color:#C69214;">May 2025:</span> Poster accepted in <a href="https://maa.org/event/mathfest/">Mathematic Association of America MathFest</a>!<br>
                   <span style="color:#182B49;">April 2025:</span> I won the <strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong>!
                 </p>
-
             </div>
             <h3 class="section-heading">Teaching</h3>
 
