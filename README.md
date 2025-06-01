@@ -190,9 +190,13 @@
 </p>
             <div class="violet-box">
                 <strong>News</strong>: <br>
-                May 2025: Defended my PhD!<br>
-                May 2025: Poster accepted in <a href="https://maa.org/event/mathfest/">Mathematic Association of America MathFest</a>!<br>
-                April 2025: I won the <strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong>! 
+                <p>
+                  <span style="color:#2E86C1;">May 2025:</span> Won UCSD CSE Department Award for Excellence in Teaching<br>
+                  <span style="color:#28B463;">May 2025:</span> Defended my PhD!<br>
+                  <span style="color:#D68910;">May 2025:</span> Poster accepted in <a href="https://maa.org/event/mathfest/">Mathematic Association of America MathFest</a>!<br>
+                  <span style="color:#AF7AC5;">April 2025:</span> I won the <strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong>!
+                </p>
+
             </div>
             <h3 class="section-heading">Teaching</h3>
 
