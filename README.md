@@ -192,9 +192,9 @@
                 <strong>News</strong>: <br>
                 <p>
                   <span style="color:#C69214;">May 2025:</span> I won UCSD CSE Department Award for Excellence in Teaching<br>
-                  <span style="color:#182B49;">May 2025:</span> Defended my PhD!<br>
+                  <span style="color:#00629B;">May 2025:</span> Defended my PhD!<br>
                   <span style="color:#C69214;">May 2025:</span> Poster accepted in <a href="https://maa.org/event/mathfest/">Mathematic Association of America MathFest</a>!<br>
-                  <span style="color:#182B49;">April 2025:</span> I won the <strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong>!
+                  <span style="color:#00629B;">April 2025:</span> I won the <strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong>!
                 </p>
             </div>
             <h3 class="section-heading">Teaching</h3>
