@@ -293,6 +293,7 @@
         <h4>Invited Talks</h4>
         <ul>
             <li>TECHCON, Research Scholar and Presenter, Sep 2025</li>
+            <li>UCSD Teaching and Learning Commons, Summer Teaching Community 2025, Panelist, June 2025</li>
             <li>University of California Riverside, ECE, Logic Opmitization and Multi-Level Minimization, Winter 2025</li>
             <li>Purdue University, CS, Induction and Recursion, Winter 2025</li>
             <li>California State University Long Beach, CECS, Towards Efficient Learning at the Edge by Hyperdimensional Computing, Winter 2025</li>
