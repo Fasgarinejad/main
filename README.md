@@ -191,7 +191,7 @@
             <div class="violet-box">
                 <strong>News</strong>: <br>
                 <p>
-                  <span style="color:#C69214;">May 2025:</span> I won UCSD CSE Department Award for Excellence in Teaching<br>
+                  <span style="color:#C69214;">May 2025:</span> I won the UCSD CSE Department Award for Excellence in Teaching<br>
                   <span style="color:#C69214;">May 2025:</span> Defended my PhD!<br>
                   <span style="color:#C69214;">May 2025:</span> Poster accepted in <a href="https://maa.org/event/mathfest/">Mathematic Association of America MathFest</a>!<br>
                   <span style="color:#C69214;">April 2025:</span> I won the <strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong>!
@@ -273,6 +273,7 @@
             <!-- Awards -->
             <h3 class="section-heading">Awards and Honors</h3>
             <ul>
+                <li>UCSD CSE Department Award for Excellence in Teaching, 2025</li>
                 <li><strong>UCSD 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award</strong></li>
                 <li>DAC’61 Young Fellow Best Video Presentation Award, 2024</li>
                 <li>DAC Young Fellow at the 61st and 62nd Design Automation Conference in San Francisco, 2024, 2025</li>
