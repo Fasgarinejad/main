@@ -3,6 +3,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
     <style>
 
         /* Styling for the slide link */
@@ -152,7 +154,24 @@
         .links a:hover {
             color: #0056b3; /* Darker shade on hover */
         }
+    .hr-with-icon {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 20px 0;
+}
 
+.hr-with-icon::before,
+.hr-with-icon::after {
+  content: '';
+  flex: 1;
+  border-bottom: 2px solid #ccc;
+}
+
+.hr-with-icon i {
+  margin: 0 10px;
+  color: #333;
+}
     </style>
 </head>
 <body>
@@ -208,7 +227,9 @@
                     </ul>
                 </li>
             </ul>
-            
+            <div class="hr-with-icon">
+              <i class="fas fa-graduation-cap"></i>
+            </div>
             <!-- University of California, San Diego -->
             <h4 class="university-heading">University of California, San Diego</h4>
             <ul>
