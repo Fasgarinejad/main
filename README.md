@@ -199,13 +199,12 @@
             </div>
             <h3 class="section-heading">Teaching</h3>
             <!-- University of California, Riverside -->
-            <h4 class="university-heading">University of California, San Diego</h4>
+            <h4 class="university-heading">University of California, Riverside</h4>
             <ul>
                 <li><strong>Instructor</strong>, Electrical and Computer Engineering
                     <ul>
-                        <li><strong>EE 5</strong>: Circuits and Electronics (Fall 2025)</li>
-                        <li><strong>EE 16</strong>: Data Analysis for Engineering Applications (Fall 2025)</li>
-   
+                        <li><strong style="color: #00629B;">EE 5</strong>: Circuits and Electronics (Fall 2025)</li>
+                        <li><strong style="color: #FDB515;">EE 16</strong>: Data Analysis for Engineering Applications (Fall 2025)</li>
                     </ul>
                 </li>
             </ul>
