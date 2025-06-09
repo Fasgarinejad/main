@@ -256,7 +256,7 @@
                 <li>R. Garcia, <strong>F. Asgarinejad</strong>, B. Khaleghi, T. Rosing, M. Imani <a href="https://ieeexplore.ieee.org/abstract/document/9474239">TruLook: A Framework for Configurable GPU Approximation</a>, DATE, 2021.</li>
                 <li><strong>F. Asgarinejad</strong>, A. Thomas, T. Rosing, <a href="https://ieeexplore.ieee.org/abstract/document/9175328">Detection of Epileptic Seizures from Surface EEG using Hyperdimensional Computing</a>, EMBC, 2020. <a href="https://drive.google.com/file/d/1G-7ESC-DQj2xH6xuVQStgZYvNy5kauNS/view?usp=sharing">slides</a>, <a href="https://www.youtube.com/watch?v=ch0Mm9_5cPw">presentation</a></li>
                 <li>B. Khaleghi, S. Salamat, A. Thomas, <strong>F. Asgarinejad</strong>, Y. Kim, T. Rosing, <a href="https://dl.acm.org/doi/abs/10.1145/3370748.3406587">SHEARer Highly-Efficient Hyperdimensional Computing by Software-Hardware Enabled Multifold Approximation</a>, ISLPED, 2020.</li>
-                <li>J. Yang, <strong>F. Asgarinejad</strong>, E. Zhao, F. Ponzina, T. Rosing, B. Aksanli,Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques, under preparation.</li>
+                <!-- <li>J. Yang, <strong>F. Asgarinejad</strong>, E. Zhao, F. Ponzina, T. Rosing, B. Aksanli,Transforming Memory Retention Strategies in Neural Networks through Hyperdimensional Computing Techniques, under preparation.</li> -->
             </ul>
 
             <!-- Mentorship -->
