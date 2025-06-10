@@ -211,7 +211,7 @@ My research interests lie at the intersection of Computer Science and Electrical
 <!-- <p>You can find my <a href="https://drive.google.com/file/d/114Abv7Jxh7koSGvKCaKKqCUU96pKq_Qa/view?usp=sharing">candidacy presentation slides here</a>. My dissertation defense slides will be uploaded following the publication of a related paper.</p> -->
 
 
-<strong>Collaborations</strong>: If you are interested in collaborting with me, please contact me at fasgarinejd @ ucsd.edu (soon to be updated).
+<strong>Collaborations</strong>: If you are interested in collaborting with me, please contact me at fasgarinejad @ ucsd.edu (soon to be updated).
 
 
 <!-- Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://drive.google.com/file/d/1aFNGfm4ebCrcbrD8ZCvJMOYANDoJ-V0b/view?usp=sharing">slides</a>] -->
