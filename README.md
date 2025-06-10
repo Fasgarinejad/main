@@ -203,10 +203,15 @@
             <img src="image2.png" alt="Second Image" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div> 
         <div class="column right-column">
-            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad, a fifth-year Ph.D. candidate at the Electrical and Computer Engineering department at the University of California, San Diego (joint with San Diego State University). I work on Hyperdimensional Computing Security and synergy of Hyperdimensional Computing and Machine Learning under the supervision of <a href="https://cseweb.ucsd.edu/~trosing/">Prof. Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Prof. Baris Aksanli</a> and I have been lucky and grateful to be mentored by them as well as <a href='https://niema.net/'>Prof. Niema Moshiri</a>.
-<br>You can find my candidacy presentation slides from <a href="https://drive.google.com/file/d/114Abv7Jxh7koSGvKCaKKqCUU96pKq_Qa/view?usp=sharing">here</a>.<br>
- Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://drive.google.com/file/d/1aFNGfm4ebCrcbrD8ZCvJMOYANDoJ-V0b/view?usp=sharing">slides</a>] 
-</p>
+            <p>Hi! 👋 I'm Fatemeh ("Faa-teh-meh") Asgarinejad. Beginning Fall 2025, I will join University of California Riverside's Electrical and Computer Engineering (ECE) Department as an Assistant Professor of Teaching! :).  
+My research interests lie at the intersection of Computer Science and Electrical Engineering Education, as well as Machine Learning Applications.</p>
+
+<p>Previously, I received my Ph.D. at the University of California San Diego, advised by Professors Tajana Rosing and Baris Aksanli (joint with San Diego State University). During my Ph.D., I worked on Hyperdimensional Computing for Security, and explored its synergy with Machine Learning. I am honored to have received the 2025 Barbara J. and Paul D. Saltman Excellent Teaching Award from UC San Diego, as well as the 2025 Excellence in Teaching Award from the UCSD Computer Science and Engineering Department.</p>
+
+<p>You can find my <a href="https://drive.google.com/file/d/114Abv7Jxh7koSGvKCaKKqCUU96pKq_Qa/view?usp=sharing">candidacy presentation slides here</a>. My dissertation defense slides will be uploaded following the publication of a related paper.</p>
+
+<!-- Sample teaching (Statistics - Hypothesis Testing) [<a href="https://www.youtube.com/watch?v=6w7PSSkKEFQ&t=1s">video</a>] [<a href="https://drive.google.com/file/d/1aFNGfm4ebCrcbrD8ZCvJMOYANDoJ-V0b/view?usp=sharing">slides</a>] -->
+
             <div class="violet-box">
                 <strong>News</strong>: <br>
                 <p>
