@@ -261,11 +261,16 @@ My research interests lie at the intersection of Computer Science and Electrical
                     </ul>
                 </li>
             </ul>
-
             <!-- San Diego State University -->
             <h4 class="university-heading">San Diego State University</h4>
             <ul>
                 <li><strong>Instructor:</strong> First Year Seminars, four Classes (Fall 2021)</li>
+            </ul>
+
+            <!-- UC San Diego Extended Studies -->
+            <h4 class="university-heading">UC San Diego Extended Studies</h4>
+            <ul>
+                <li><strong>Instructor</strong> Fundamentals of Data Science (July 2025)</li>
             </ul>
 
             <!-- UC San Diego Extension -->
