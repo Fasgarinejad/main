@@ -219,6 +219,7 @@ My research interests lie at the intersection of Computer Science and Electrical
             <div class="violet-box">
                 <strong>News</strong>: <br>
                 <p>
+                <span style="color:#C69214;">July 2025:</span> My recent work in HD Computing was recognized as one of the two top achievements in the Cocosys Spring Quarter Review.<br>
                   <span style="color:#C69214;">May 2025:</span> I won the UCSD CSE Department Award for Excellence in Teaching<br>
                   <span style="color:#C69214;">May 2025:</span> Defended my PhD!<br>
                   <span style="color:#C69214;">May 2025:</span> Poster accepted in <a href="https://maa.org/event/mathfest/">Mathematic Association of America MathFest</a>!<br>
