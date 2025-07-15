@@ -333,7 +333,6 @@ My research interests lie at the intersection of Computer Science and Electrical
         <h3 class="section-heading">Professional Service</h3>
         <ul>
             <li>Reviewer for ACM Computing Surveys</li>
-            <li>Reviewer for Springer Biomedical Materials & Devices</li>
             <li>Student Activities Chair for IEEE San Diego Section</li>
         </ul>
         <!--Talks -->
@@ -341,7 +340,7 @@ My research interests lie at the intersection of Computer Science and Electrical
         <h4>Invited Talks</h4>
         <ul>
             <li>TECHCON, Research Scholar and Presenter, Sep 2025</li>
-            <li>Panelist, UCSD SRP Professional Development Forum - Graduate Student Panel (STEM), July 2025</li?
+            <li>Panelist, UCSD SRP Professional Development Forum - Graduate Student Panel (STEM), July 2025</li>
             <li>Panelist, UCSD Teaching and Learning Commons, Summer Teaching Community 2025, June 2025</li>
             <li>University of California Riverside, ECE, Logic Opmitization and Multi-Level Minimization, Winter 2025</li>
             <li>Purdue University, CS, Induction and Recursion, Winter 2025</li>
