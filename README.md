@@ -332,7 +332,7 @@ My research interests lie at the intersection of Computer Science and Electrical
         <!-- Service -->
         <h3 class="section-heading">Professional Service</h3>
         <ul>
-            <li>Session Moderator at 2025 Summer Research Conference</li>
+            <li>Panel Moderator at the UCSD 2025 Summer Research Conference</li>
             <li>Reviewer for ACM Computing Surveys</li>
             <li>Student Activities Chair for IEEE San Diego Section</li>
         </ul>
