@@ -143,7 +143,7 @@
       </div>
 
       <div class="about-right">
-      <p>Hi! 👋 I'm Fatemeh (“Faa-teh-meh”) Asgarinejad. I am an Assistant Professor of Teaching in <a href="https://www.ee.ucr.edu/">Electrical and Computer Engineering Department</a> at <a href="https://www.ucr.edu/">University of California Riverside</a>. My research explores the intersection of CS and ECE education—centering engaged, continuous learning—and uses machine learning, data science and mathematics to solve real-world problems.</p>
+      <p>Hi! 👋 I'm Fatemeh (Maral /mɑːˈrɑːl/)) Asgarinejad. I am an Assistant Professor of Teaching in <a href="https://www.ee.ucr.edu/">Electrical and Computer Engineering Department</a> at <a href="https://www.ucr.edu/">University of California Riverside</a>. My research explores the intersection of CS and ECE education—centering engaged, continuous learning—and uses machine learning, data science and mathematics to solve real-world problems.</p>
 
         <p>Previously, I received my Ph.D. from the <a href="https://ucsd.edu/">University of California San Diego</a>, where I had the privilege of being advised by Professors <a href="https://cseweb.ucsd.edu/~trosing/">Tajana Rosing</a> and <a href="https://aksanli.sdsu.edu/">Baris Aksanli</a> (joint with San Diego State University). During my Ph.D., I worked on Secure, Efficient and Private Computing at the Edge with Hyperdimensional Computing, and explored its synergy with Machine Learning. I am honored to have received the <a href="https://senate.ucsd.edu/grants-awards/senate-awards/distinguished-teaching-award">2025 Barbara J. and Paul D. Saltman Excellent Teaching Award from UC San Diego</a>, as well as the <a href="https://cse.ucsd.edu/graduate/cse-department-awards">2025 Excellence in Teaching Award from the UCSD Computer Science and Engineering Department</a>.</p>
 
@@ -151,6 +151,7 @@
 
         <div class="violet-box">
           <strong>News</strong>:<br>
+          <span style="color:#C69214;">Feb 2026:</span> I was awarded Outstanding Service for Students in IEEE, San Diego Region<br>
           <span style="color:#C69214;">July 2025:</span> My recent work in HD Computing was recognized as one of the two top achievements in the Cocosys Spring Quarter Review.<br>
           <span style="color:#C69214;">May 2025:</span> I won the UCSD CSE Department Award for Excellence in Teaching<br>
           <span style="color:#C69214;">May 2025:</span> Defended my PhD!<br>
